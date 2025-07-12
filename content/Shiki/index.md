@@ -3,7 +3,8 @@ created: 2025-07-11
 updated: 2025-07-11
 ---
 There are many Shiki's out there, but the main one is [[shiki_turret]].
-
+## Whomst'd've'ly'yaint'nt'ed'ies's'y'es
+Okay okay let me back up a bit. I do a little bit of everything, but mostly I like drawing and telling stories. I also play games, too many games. I'm most ~~consistently~~ active on Twitch and bsky... actually I'm not sure why you're asking, because if you're here you must have come from somewhere else??
 ## Inspiration
 The name "shiki" comes from 2 things.
 

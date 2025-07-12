@@ -8,8 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "Quartz GitHub": "https://github.com/jackyzha0/quartz",
     },
   }),
 }
@@ -38,7 +37,15 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => {
+        // set containing names of everything you want to filter out
+        const omit = new Set(["templates", "tags"])
+        const omitNames = !omit.has(node.displayName.toLowerCase())
+
+        return omitNames
+      },
+    }),
   ],
   right: [
     Component.Graph(),
@@ -62,7 +69,15 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => {
+        // set containing names of everything you want to filter out
+        const omit = new Set(["templates", "tags"])
+        const omitNames = !omit.has(node.displayName.toLowerCase())
+
+        return omitNames
+      },
+    }),
   ],
   right: [],
 }

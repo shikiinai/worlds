@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Quartz GitHub": "https://github.com/jackyzha0/quartz",
+      "GitHub": "https://github.com/jackyzha0/quartz",
     },
   }),
 }
@@ -67,6 +67,7 @@ export const defaultListPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
+        { Component: Component.ReaderMode() },
       ],
     }),
     Component.Explorer({
@@ -79,5 +80,8 @@ export const defaultListPageLayout: PageLayout = {
       },
     }),
   ],
-  right: [],
+  right: [
+    Component.Graph(),
+    Component.DesktopOnly(Component.TableOfContents()),
+  ],
 }

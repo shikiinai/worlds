@@ -9,4 +9,4 @@ Hello world.
 Let's try that again.
 
 ## Worlds
-- [[Anamnesis/index|Anamnesis]]
+- [[Anamnesis|Anamnesis]]

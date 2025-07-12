@@ -1,7 +1,7 @@
 ---
 title: Worlds
 created: 2025-07-11
-updated: 2025-07-11
+updated: 2025-07-12
 ---
 Hello and welcome! This is where I keep notes, lore, and other things about my OCs (Original Characters). I have... many...
 
@@ -15,4 +15,4 @@ Hope you enjoy your stay.
 - [[Flora]]
 
 ### Or maybe here
-- [[Mafia/index]]
+- [[Mafia/index|Mafia AU]]

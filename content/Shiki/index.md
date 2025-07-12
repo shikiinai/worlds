@@ -1,6 +1,7 @@
 ---
 created: 2025-07-11
-updated: 2025-07-11
+updated: 2025-07-12
+title: Shiki
 ---
 There are many Shiki's out there, but the main one is [[shiki_turret]].
 ## Whomst'd've'ly'yaint'nt'ed'ies's'y'es

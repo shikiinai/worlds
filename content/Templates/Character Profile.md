@@ -1,6 +1,6 @@
 ---
 created: 2025-07-11
-updated: 2025-07-11
+updated: 2025-07-13
 ---
 # Basic Information
 |                   Category | Response               |
@@ -20,12 +20,11 @@ updated: 2025-07-11
 |                   Eyesight | colour-blind? glasses? |
 |             Hand Dexterity |                        |
 |                 Voice Type |                        |
-|     Employment / Education |                        |
 | Economic Status / Behavior |                        |
 |              Pets / Plants |                        |
 
 | ✓ Likes | ☓ Dislikes |
-| ------- | ---------- |
+| :------ | :--------- |
 |         |            |
 
 ## ♡ Favorite...
@@ -40,6 +39,7 @@ updated: 2025-07-11
 |  Element |          |
 |    Sound |          |
 
+## Employment / Education
 ## Criminal Record
 
 ## Awards / Achievements
@@ -78,7 +78,7 @@ Humorous / Violent? Active? Sociable? Intellectual? Virtuous? Expressive? Weakne
 <!-- Music / Newspapers Books/ Magazines Movies
 Creative Pursuits Collections Favourite / Least Favourite Colour Perfume / Cologne Décor / Fashion Location People, Favourite Stores / Brands, Favourite Things, Wears Accessories? Taste / Drugs, Wine / Food, Supernatural Abilities, Attuned to Spirits? Fortunes Accent / Dialect Sixth Sense for Certain Things, etc  -->
 
-# Relationships
+# Social
 ## People They Admire
 
 ## People They Dislike

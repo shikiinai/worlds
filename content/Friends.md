@@ -1,6 +1,6 @@
 ---
 created: 2025-07-11
-updated: 2025-07-12
+updated: 2025-07-13
 title: Friends
 ---
 You'll see mentions to these people on this wiki. They may be key storytellers, collaborators, or just friends who are here for the ride.
@@ -23,7 +23,7 @@ This page is a glossary so it's arranged in alphabetical order. You probably sho
 
 ## Moe
 - he/him
-- [bsky](https://bsky.app/profile/moewolf.bsky.social) | [Twitch](https://www.twitch.tv/moe_wolf)
+- [Twitter](https://twitter.com/Moe_w0lf) | [Twitch](https://www.twitch.tv/moe_wolf)
 - cool and comfy bird man
 - Fromsoft gamer and horror enthusiast
 - locks personalities behind each model
@@ -37,7 +37,7 @@ This page is a glossary so it's arranged in alphabetical order. You probably sho
 
 ## Timpani
 - they/them
-- [bsky](https://bsky.app/profile/timpaniumbra.bsky.social) | [Twitch](https://www.twitch.tv/timpaniumbra)
+- [bsky](https://bsky.app/profile/timpaniumbra.xyz) | [Twitch](https://www.twitch.tv/timpaniumbra)
 - comfy rogue-like enthusiast
 - actually very good at improv? teach me your ways
 - contagious laugh #2

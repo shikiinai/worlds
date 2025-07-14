@@ -1,6 +1,6 @@
 ---
 created: 2025-07-11
-updated: 2025-07-11
+updated: 2025-07-13
 title: Cafe Nowhere
 ---
 ![[coverCafe.png|300]]

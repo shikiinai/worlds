@@ -1,7 +1,7 @@
 ---
 title: Worlds
 created: 2025-07-11
-updated: 2025-07-12
+updated: 2025-07-13
 ---
 Hello and welcome! This is where I keep notes, lore, and other things about my OCs (Original Characters). I have... many...
 
@@ -9,10 +9,11 @@ First, if you don't know who I am, I'm [[Shiki/index|Shiki]]. I'm also part of s
 
 Hope you enjoy your stay.
 
-## Start Here
+## Worlds
 - [[Anamnesis/index|Anamnesis]]
-- [[Aozora Twins]]
-- [[Flora]]
+- [[Aozora Twins/index|Aozora Twins]]
+- [[Flora/index|Flora]]
 
-### Or maybe here
+### AUs
+- [[Cafe Nowhere]] (Anamnesis coffee shop AU)
 - [[Mafia/index|Mafia AU]]

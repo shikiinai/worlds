@@ -1,7 +1,7 @@
 ---
 title: Anamnesis
 created: 2025-07-11
-updated: 2025-07-11
+updated: 2025-07-13
 ---
 ![[cover.png|300]]
 
@@ -14,9 +14,28 @@ updated: 2025-07-11
 > 
 > a story about living for others
 
-Main OC project centering around Fen and the people around him in the city Ataraxia. 
+Main OC project centering on Fen and the people around him in the city Ataraxia. Nicknamed "Nemo" because Shiki stuttered on Anamnesis and said "anemone" instead, then shortened it to "nemo".
 
 The coffee shop AU, [[Cafe Nowhere]], is a much happier slice-of-life.
 ## Links
 - [ToyHouse](https://toyhou.se/shikiinai/characters/folder:458070)
 - [Writing](https://archiveofourown.org/works/59889481/chapters/152784202) ([Series](https://archiveofourown.org/series/4433482))
+
+## Characters
+Keres
+- [[Fen]]
+- [[Agnes]]
+- [[Oliver]]
+- [[Vino]]
+- [[Teach]]
+- [[Valeri]]
+
+Morpheus
+- [[Darian]]
+- [[Antinea]]
+- [[Scarlet]]
+- [[Soren]]
+
+Other
+- [[Leo]]
+- [[Frey]]

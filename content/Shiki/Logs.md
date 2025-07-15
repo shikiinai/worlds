@@ -1,7 +1,7 @@
 ---
 title: Logs
 created: 2025-07-12
-updated: 2025-07-12
+updated: 2025-07-14
 ---
 
 ## 00_aDeal.log
@@ -38,10 +38,8 @@ Sitting on top of the trash pile, the robot wondered when the factory manager wo
 
 ```
 [2021.01.04] prototype of service robot inspired by portal turret
-[2021.02.18] official release of the directionally challenged robot with no memory
-  along with origin blurb
-[????] i think Sore changed their name? i'm not sure where they are now,
-  but i hope they are thriving
+[2021.02.18] official release of the directionally challenged robot with no memory along with origin blurb
+[????] i think Sore changed their name? i'm not sure where they are now, but i hope they are thriving
 ```
 
 ## 01_love.log
@@ -66,8 +64,7 @@ Sitting on top of the trash pile, the robot wondered when the factory manager wo
 "WHEEEEEEEEEEE!"
 
 ```
-[2021.05.27] an idol trainee, a mochi singer, and a robot became fast friends,
-  calling themselves l'amour
+[2021.05.27] an idol trainee, a mochi singer, and a robot became fast friends, calling themselves l'amour
 ```
 
 ## 02_temperatureFault.log

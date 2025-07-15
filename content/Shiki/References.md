@@ -1,7 +1,7 @@
 ---
 title: References
 created: 2025-07-12
-updated: 2025-07-12
+updated: 2025-07-14
 ---
 
 References are sorted in reverse chronological order (so newest first), along with some design notes.
@@ -10,8 +10,7 @@ References are sorted in reverse chronological order (so newest first), along wi
 ## 3.0
 ![[030.jpg|Shiki_Turret 3.0 reference sheet]]
 ```
-[2024.10.20] less supplies means metal arms, open water cooling and
-  a jacket to protect from the elements
+[2024.10.20] less supplies means metal arms, open water cooling and a jacket to protect from the elements
 ```
 
 3.0 features a more complicated, "VTuber-ified" design. The jacket is longer with some more decorations. The crop top includes a ribbed design and zippers, with coolant cables out in the open. There is a single colored diamond between the shoulder blades on the back. The single earphone design has been updated to be sleeker and align with the overall color palette.
@@ -25,8 +24,7 @@ Headset, eyes, glitches, coolant cables, the ribs and diamond on the crop top, a
 ## 2.0
 ![[020.jpg|Shiki_Turret 2.0 reference sheet, separated into summer and winter outfits.]]
 ```
-[2022.05.16] an offline accident resulted in more exposed circuitry and
-  a replaced hand
+[2022.05.16] an offline accident resulted in more exposed circuitry and a replaced hand
 summer outfit inspired by the outfit joei put together.
 winter outfit inspired by sandalphon's primarch afterhours outfit
 ```
@@ -40,8 +38,7 @@ The earphones were a spur of the moment decision when I was requesting a commiss
 ## 1.5
 ![[015.jpg|Shiki_Turret 1.5 reference sheet. Minor updates to the outfit.]]
 ```
-[2021.05.27] an idol trainee, a mochi singer, and a robot became fast friends,
-  calling themselves l'amour
+[2021.05.27] an idol trainee, a mochi singer, and a robot became fast friends, calling themselves l'amour
 ```
 
 It got really hot, and I also discovered my love for crop tops. I had this exact outfit with a few color changes. The headset had been bugging me because it didn't look quite right, so I modeled it off of my actual headset at the time.
@@ -52,8 +49,7 @@ The beginning of the dark hair tips! The front / back double tone hair quickly f
 ![[010.jpg|Shiki_Turret 1.0 reference sheet.]]
 ```
 [2021.01.04] prototype of service robot inspired by portal turret  
-[2021.02.18] official release of the directionally challenged robot with
-  no memory along with origin blurb
+[2021.02.18] official release of the directionally challenged robot with no memory along with origin blurb
 ```
 
 The hair was from a Picrew that I had been looking at. I really liked the design, so I added more things to it until I had a full character.

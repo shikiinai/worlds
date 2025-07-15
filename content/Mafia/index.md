@@ -1,11 +1,20 @@
 ---
 created: 2025-07-11
-updated: 2025-07-13
+updated: 2025-07-14
 title: Mafia AU
 ---
 > [!info] Status: Ongoing
 > It's the suits really.
 
+# Queensport
+The Mafia AU draws inspiration from the Hong Kong Mafia and H.P. Lovecraft. The name of the city, Queensport, references both in the sense that:
+- Hong Kong was governed by England for a while (and therefore under the Queen)
+- Lovecraft has a recurring location named [Kingsport](https://en.wikipedia.org/wiki/Lovecraft_Country#Kingsport)
+
+# Characters
+Shiki-owned characters in the Mafia AU.
+- [[Mafia Shiki]]
+- [[HAKU]]
 # History
 ## Humble Beginnings
 I took a bit long to start one of [[Friends#Moe|Moe]]'s commissions in late 2023. He finished the game he wanted the commission for before I even started discussing the proposal, so we pivoted and he asked for "mafia Moe" instead.
@@ -32,13 +41,3 @@ At some point, [[Friends#Timpani|Timpani]] also joined in on the fun as the neut
 ![[mafiaTimpani.png|Mafia Timpani in various poses, such as collecting payment, or sitting at a handmade stand with the title "Change my mind" and a sticker that says "You won't."]]
 
 And here we are now. Welcome to Queensport, where mafia meets the eldritch. Whose side will you take, Ren or Bimu's?
-
-# Queensport
-The Mafia AU draws inspiration from the Hong Kong Mafia and H.P. Lovecraft. The name of the city, Queensport, references both in the sense that:
-- Hong Kong was governed by England for a while (and therefore under the Queen)
-- Lovecraft has a recurring location named [Kingsport](https://en.wikipedia.org/wiki/Lovecraft_Country#Kingsport)
-
-# Characters
-Shiki-owned characters in the Mafia AU.
-- [[Mafia Shiki]]
-- [[Haku]]

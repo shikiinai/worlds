@@ -1,5 +1,5 @@
 ---
-title: Worlds
+title: The Library
 created: 2025-07-11
 updated: 2025-07-14
 ---
@@ -16,7 +16,7 @@ Some quick rules on playing in this space:
 	- Characters generally stay within their world. Kaito and Kaia are travelers, so they can interact with anyone and everyone!
 	- **✓ Fan art**: there's an ongoing competition for the top 3 characters with the most art! I try to list them out every so often
 	- **✓ Headcanons**: who knows, they might become canon
-	- **✓ Ships**: be cringe and free, but don't be nasty about it. Don't yuck other people's yum!
+	- **✓ Ships**: be cringe and free, but don't be nasty about it. Don't yuck other people's yum.
 	- **⚠ Fanfiction**: keep it SFW (no sex please. moderate gore / whump / horror is OK)
 	- **☓ Kinning**
 - Characters with different permissions will have them listed at the top of the page, e.g. [[Aozora Kaia]]
@@ -26,6 +26,9 @@ There may be lore spoilers or secrets for the sake of completion. These will be 
 
 > [!WARNING] This information is a secret.
 > Only these people in-universe may be aware of this secret.
+
+> [!bug] CW: This is an example content warning.
+> These will be placed at the top of the page. Egregious stuff will also be hidden in spoilers. Stay safe everyone.
 
 > [!warning]- Example spoiler (press here to expand it and see spoilers)
 > omg shiki's favorite color is actually blue and not purple!?!?!? writing the cancel google doc rn

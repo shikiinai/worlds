@@ -1,11 +1,11 @@
 ---
 title: Mafia Shiki
 created: 2025-07-11
-updated: 2025-07-13
+updated: 2025-07-14
 ---
 ![[mafiaShiki2.png|Mafia Shiki flat color reference.]]
 # Basic Information
-> [!warning] Only Bimu and the Hime family doctors know Shiki's half slug heritage.
+> [!warning] Only Bimu and the Hime family doctors know Shiki's half slug ancestry.
 > Moe *might* know but he certainly doesn't show it. Others may feel that something is slightly off about Shiki.
 
 |                   Category | Response                                                                                                                                                                                                                 |
@@ -13,7 +13,7 @@ updated: 2025-07-13
 |            Name / Nickname | Shiki ~~Slug~~                                                                                                                                                                                                           |
 |          Gender / Pronouns | Nonbinary (they/them)                                                                                                                                                                                                    |
 |                    Species | Human (slug)                                                                                                                                                                                                             |
-|         Birthdate / Zodiac | March 12                                                                                                                                                                                                                 |
+|         Birthdate / Zodiac | March 12 / Pisces                                                                                                                                                                                                        |
 |                 Blood Type | B                                                                                                                                                                                                                        |
 |                 Birthplace | ?                                                                                                                                                                                                                        |
 |                     Height | 165cm (5'5")                                                                                                                                                                                                             |
@@ -27,10 +27,16 @@ updated: 2025-07-13
 |                 Voice Type | Boyish and sleepy, lowers when pissed                                                                                                                                                                                    |
 | Economic Status / Behavior | The Hime family provides whatever they need. They will purchase whatever is necessary for missions, but tends to neglect their own actual needs. They forget that they're allowed to take care of themselves these days. |
 |              Pets / Plants | They have a sea otter who anchors with them at night.                                                                                                                                                                    |
+|                      Other | [ToyHouse](https://toyhou.se/16616079.shiki-turret/33996363.mafiashiki)                                                                                                                                                  |
 
-| ✓ Likes                                                                                     | ☓ Dislikes                                                        |
-| :------------------------------------------------------------------------------------------ | :---------------------------------------------------------------- |
-| Hand warmers<br>Warm blankets<br>Hot soup<br>Hot coffee and tea<br>Staying at home<br>Water | Being cold<br>Summer<br>Jumpscares<br>Desert<br>Hand food<br>Guns |
+| ✓ Likes            | ☓ Dislikes  |
+| :----------------- | :---------- |
+| Hand warmers       | Being cold  |
+| Warm blankets      | Summer      |
+| Hot soup           | Jumpscares  |
+| Hot coffee and tea | Desert      |
+| Staying at home    | Finger food |
+| Water              | Guns        |
 
 ## ♡ Favorite...
 | Category | Response                                     |
@@ -50,6 +56,7 @@ Shiki is the in-house informant and main operator for Hime Mafia. Their day-to-d
 ## Criminal Record
 Minor offenses of hacking into government and organization servers; nothing was lost or stolen (that was reported), so they were let off with small fines.
 ## Awards / Achievements
+\-
 
 ## Medical Record
 <!-- Surgeries, Cavities, Illnesses -->
@@ -82,7 +89,7 @@ They get shaken easily because of their sound sensitivity; they freeze and curl 
 Despite being the operator, they're very bad at directions and get lost without a map.
 ## Formative Experiences
 <!-- as an Infant / Young Child; include who was involved -->
-It's hard being half slug (descendant of [Gla’aki](https://en.wikipedia.org/wiki/List_of_Great_Old_Ones)). Shiki is very sensitive to climate changes and sound, so they were tagged as a problem child and left in the alleys of Queensport to fend for themselves. They did odd jobs for survival and became known for their hacking skills. After getting one of their bank accounts hacked and emptied, a mafia family took the child in, only to shackle them with a contract upon learning their heritage. Eager to please, Shiki gave in to their demands as they took more and more.
+It's hard being half slug (descendant of [Gla’aki](https://en.wikipedia.org/wiki/List_of_Great_Old_Ones)). Shiki is very sensitive to climate changes and sound, so they were tagged as a problem child and left in the alleys of Queensport to fend for themselves. They did odd jobs for survival and became known for their hacking skills. After getting one of their bank accounts hacked and emptied, a mafia family took the child in, only to shackle them with a contract upon learning their ancestry. Eager to please, Shiki gave in to their demands as they took more and more.
 ## Dreams for the Future
 This one has no more dreams (a nod to Gla’aki's epithet, the Lord of Dead Dreams). If they had to pick one, it would be survival or to realize Bimu's dreams.
 ## Fears

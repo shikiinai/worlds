@@ -1,7 +1,7 @@
 ---
 title: Aozora Kaia
 created: 2025-07-11
-updated: 2025-07-14
+updated: 2025-07-15
 ---
 > [!EXAMPLE] Character Permissions
 > Kaia is a traveler, so she can go to other worlds and interact with everyone! Please keep her with [[Aozora Kaito|Kaito]]. He doesn't have to be present, but he has to be somewhere close.
@@ -65,7 +65,7 @@ Kaia's personal record of staying awake is five days.
 <!-- Surgeries, Cavities, Illnesses -->
 Kaia is nearsighted, but she wears contacts so most people don't know. She doesn't have glasses.
 
-Kaia is an insomniac and does not sleep well. This goes hand in hand with maladaptive daydreaming, where her nightmares may continue to haunt her after she physically wakes up. Kaito can bring her out of it most days, but sometimes they break their rule and stay a couple more days to recover.
+Kaia is an insomniac and does not sleep well. This goes hand in hand with [maladaptive daydreaming](https://en.wikipedia.org/wiki/Maladaptive_daydreaming), where her nightmares may continue to haunt her after she physically wakes up. Kaito can bring her out of it most days, but sometimes they break their rule and stay a couple more days to recover.
 ## Markings
 <!-- Scars, Burns, Skin Damage, Birthmarks, Tattoos -->
 A thin line with big and small stitch marks will start to appear on her neck as she gets more and more stressed. Eventually it loops around her neck, as if her head was sewn on.
@@ -80,7 +80,7 @@ Humorous / Violent? Active? Sociable? Intellectual? Virtuous? Expressive? Weakne
 Kaia is a ray of sunshine who wants to see all the sights the universe has to offer. She can and will climb all the mountains with Kaito in tow. Because of her childhood, she firmly believes that humanity is inherently good. She is very trusting and very susceptible to getting conned without Kaito.
 ## Formative Experiences
 <!-- as an Infant / Young Child; include who was involved -->
-Growing up, Kaia was locked inside a small room for a very long time. It was a lavish, luxurious room and she had all she could possibly wish for, except for two things: she could not leave, and she could not talk to Kaito. Their rooms were connected by a thick glass wall, so each could see the other. Kaia "talked" to Kaito by writing on the wall bit by bit, wiping their conversations away whenever security walked by. Eventually, they escaped together and have been travelling ever since.
+Growing up, Kaia was locked inside a small room for a very long time. It was a lavish, luxurious room and she had all she could possibly wish for, except for two things: she could not leave, and she could not talk to Kaito. Their rooms were connected by a thick glass wall, so each could see the other. Kaia "talked" to Kaito by writing on the wall bit by bit, wiping their conversations away whenever people walked by. Eventually, they escaped together and have been travelling ever since.
 ## Dreams for the Future
 To see all the world has to offer. Kaia has a lengthy bucket list of mountains to scale, lakes to jump in, and sunrises to see.
 ## Fears
@@ -123,7 +123,10 @@ She can't hear you over the roar of the waterfall she's about to jump into.
 ## Family Relationships
 <!-- include behavior towards them -->
 ### Kaito
+> [!quote] My baby brother! He's always so serious. He really needs to lighten up, smile more. Smiles make the world go round!
+
 Kaia is older by 2 minutes and 6 seconds! The time is very important. She acts like a six year old and loses all of her braincells around Kaito, though. They take care of each other. Kaia couldn't have asked for a better brother.
+
 ## Problematic Relationships
 <!-- include behavior towards them -->
 \-

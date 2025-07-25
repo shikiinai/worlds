@@ -1,7 +1,8 @@
 ---
 title: Mafia Shiki
 created: 2025-07-11
-updated: 2025-07-24
+modified: 2025-07-25
+socialImage: assets/mafiaShiki2.png
 ---
 ![[mafiaShiki2.png|Mafia Shiki flat color reference.]]
 # Basic Information

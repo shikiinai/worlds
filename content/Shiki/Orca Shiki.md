@@ -1,7 +1,8 @@
 ---
 created: 2025-07-11
-updated: 2025-07-24
+modified: 2025-07-25
 title: Orca Shiki
+socialImage: assets/treadingWater.png
 ---
 
 ![[treadingWater.png|Orca Shiki sitting in a puddle of ink, reaching out to a floating puddle of water.]]

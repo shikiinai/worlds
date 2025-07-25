@@ -1,7 +1,8 @@
 ---
 title: HAKU
 created: 2025-07-11
-updated: 2025-07-24
+modified: 2025-07-25
+socialImage: assets/HAKU.png
 ---
 ![[HAKU.png|Haku in one of their male and female forms smirking at the viewer. To the right, HAKU in the dark with glowing amber eyes, taking a bite out of a red object.]]
 

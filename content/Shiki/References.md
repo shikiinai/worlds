@@ -1,7 +1,7 @@
 ---
 title: References
 created: 2025-07-12
-updated: 2025-07-14
+modified: 2025-07-25
 ---
 
 References are sorted in reverse chronological order (so newest first), along with some design notes.

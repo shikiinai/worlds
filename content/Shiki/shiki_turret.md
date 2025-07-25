@@ -1,6 +1,6 @@
 ---
 created: 2025-07-11
-updated: 2025-07-24
+modified: 2025-07-25
 title: shiki_turret
 ---
 > [!quote] Hello! I'm Shiki, a directionally challenged robot with goldfish memory!

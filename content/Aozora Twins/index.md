@@ -1,10 +1,11 @@
 ---
 title: Aozora Twins
 created: 2025-07-11
-updated: 2025-07-24
+modified: 2025-07-25
 alias:
   - twins
   - sky
+socialImage: assets/aozora.png
 ---
 ![[aozora.png|The Aozora twins sitting and laughing together at a cafe.]]
 

@@ -1,7 +1,7 @@
 ---
 title: Logs
 created: 2025-07-12
-updated: 2025-07-14
+modified: 2025-07-25
 ---
 
 ## 00_aDeal.log

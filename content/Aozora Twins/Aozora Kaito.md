@@ -1,7 +1,8 @@
 ---
 title: Aozora Kaito
 created: 2025-07-11
-updated: 2025-07-24
+modified: 2025-07-25
+socialImage: assets/ref.png
 ---
 > [!EXAMPLE] Character Permissions
 > Kaito is a traveler, so he can go to other worlds and interact with everyone! Please keep him with [[Aozora Kaia|Kaia]]. She doesn't have to be present, but she has to be somewhere close.

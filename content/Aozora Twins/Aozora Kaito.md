@@ -1,7 +1,7 @@
 ---
 title: Aozora Kaito
 created: 2025-07-11
-updated: 2025-07-15
+updated: 2025-07-24
 ---
 > [!EXAMPLE] Character Permissions
 > Kaito is a traveler, so he can go to other worlds and interact with everyone! Please keep him with [[Aozora Kaia|Kaia]]. She doesn't have to be present, but she has to be somewhere close.
@@ -15,26 +15,27 @@ updated: 2025-07-15
 
 Kaito is the one on the right.
 # Basic Information
-|                   Category | Response                                              |
-| -------------------------: | :---------------------------------------------------- |
-|            Name / Nickname | Aozora Kaito                                          |
-|          Gender / Pronouns | Male (he/him)                                         |
-|                    Species | Human*                                                |
-|         Birthdate / Zodiac | October 24 / Scorpio                                  |
-|                 Blood Type | B                                                     |
-|                 Birthplace | ?                                                     |
-|                     Height | 170 cm (5'7")                                         |
-|                     Weight | Refused measurement                                   |
-|                        Age | Presents mid 20s                                      |
-|                Hair Colour | Black                                                 |
-|                 Eye Colour | Black                                                 |
-|               Other Colour | Prefers dark, faded colors                            |
-|                   Eyesight | 20/20                                                 |
-|             Hand Dexterity | Ambidextrous (left handed)                            |
-|                 Voice Type | Soft baritone                                         |
-| Economic Status / Behavior | Cheap but makes sure they have the necessary supplies |
-|              Pets / Plants | \-                                                    |
-|                      Other | [ToyHouse](https://toyhou.se/7519449.kaito-aozora)    |
+|                   Category | Response                                                      |
+| -------------------------: | :------------------------------------------------------------ |
+|            Name / Nickname | Aozora Kaito                                                  |
+|          Gender / Pronouns | Male (he/him)                                                 |
+|                    Species | Human*                                                        |
+|         Birthdate / Zodiac | October 24 / Scorpio                                          |
+|                 Blood Type | B                                                             |
+|                 Birthplace | ?                                                             |
+|                     Height | 170 cm (5'7")                                                 |
+|                     Weight | Refused measurement                                           |
+|                        Age | Presents mid 20s                                              |
+|                Hair Colour | Black                                                         |
+|                 Eye Colour | Black                                                         |
+|               Other Colour | Prefers dark, faded colors                                    |
+|                   Eyesight | 20/20                                                         |
+|             Hand Dexterity | Ambidextrous (left handed)                                    |
+|                 Voice Type | Soft baritone                                                 |
+| Economic Status / Behavior | Cheap but makes sure they have the necessary supplies         |
+|              Pets / Plants | \-                                                            |
+|                      Other | [ToyHouse](https://toyhou.se/7519449.kaito-aozora)            |
+|                      Music | [贖罪 (Repentance)](https://www.youtube.com/watch?v=j1ArobXFdy) |
 
 | ✓ Likes       | ☓ Dislikes       |
 | :------------ | :--------------- |

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+
+    <!-- hello from kaylee rowena! i hope you enjoy the code! <3 -->
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js" charset="utf-8"></script>
+
+    <link rel="stylesheet" href="style.css" type="text/css" media="all">
+
+    <title>
+        YOUR NAME GOES HERE
+    </title>
+    <link rel="icon" type="image/x-icon" href="favicon-goes-here.png">
+    <!-- the icon that shows up in the address bar -->
+
+    <!-- HTML Meta Tags-->
+    <meta property="og:type" content="website" />
+    <meta name="description" content="describe your site for search engines + social media links!" />
+    <meta property="og:image" content="put a link to your preview image for social media here.jpg">
+    <meta property="og:image:type" content="image/jpg">
+</head>
+
+<body>
+    <main>
+        <h3>image gallery</h3>
+        <div id="gallery" class="columns">
+            you can put text here, too, if you want. the number of columns will change depending on how wide the window
+            is, making it responsive to view on phone screens!
+            <p>
+            <div class="box">don't want columns? just remove the <code>class = "columns"</code> bit. (this is good for
+                things like posting comic pages, since columns can mess with the order of your images.)
+            </div>
+            <figure>
+                <img src="images/300x300.png">
+                <figcaption>
+                    you can use the <code>figure & figcaption</code> elements if you want to add captions to your images
+                </figcaption>
+            </figure>
+            <img src="images/300x300.png">
+            <img src="images/500x300.png">
+             <img src="images/900x1200.png">
+            <img src="images/500x300.png">
+            <img src="images/300x300.png">
+            <img src="images/200x500.png">
+            <img src="images/300x300.png">
+            <img src="images/500x300.png">
+            <img src="images/300x300.png">
+
+        </div>
+
+        <div id="lightbox" popover></div>
+        <!-- don't get rid of this div, even though it looks empty - this is what makes your image lightbox work! -->
+
+    </main>
+</body>
+
+<!-- this bit is what makes the image lightbox work! -->
+<script>
+    const popover = document.getElementById("lightbox");
+
+    $('#gallery img').click(function (e) {
+        var image_src = $(this).attr("src");
+        $(this).attr('popovertarget', 'lightbox');
+        $('#lightbox').html('<img src="' + image_src + '" />');
+        popover.showPopover();
+        $('#lightbox').append('<button popovertarget="lightbox" popovertargetaction="hide">x</button>');
+    });
+</script>
+
+</html>

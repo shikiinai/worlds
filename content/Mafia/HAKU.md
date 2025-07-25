@@ -1,7 +1,7 @@
 ---
 title: HAKU
 created: 2025-07-11
-updated: 2025-07-14
+updated: 2025-07-24
 ---
 ![[HAKU.png|Haku in one of their male and female forms smirking at the viewer. To the right, HAKU in the dark with glowing amber eyes, taking a bite out of a red object.]]
 
@@ -37,6 +37,7 @@ updated: 2025-07-14
 | Economic Status / Behavior | Wealthy by scamming everyone around them                                                                                             |
 |              Pets / Plants | A cactus that somehow never dies<br>(Haku waters it with their own blood, it's basically a Great One in its own right at this point) |
 |                      Other | [ToyHouse](https://toyhou.se/3311525.haku)                                                                                           |
+|                      Music | [妄想税 (Delusion Tax)](https://www.youtube.com/watch?v=lYo4jUqGqAQ)                                                                    |
 
 | ✓ Likes                                      | ☓ Dislikes           |
 | :------------------------------------------- | :------------------- |

@@ -1,9 +1,12 @@
 ---
 created: 2025-07-11
-updated: 2025-07-12
+updated: 2025-07-24
 title: shiki_turret
 ---
 > [!quote] Hello! I'm Shiki, a directionally challenged robot with goldfish memory!
+
+![[rue_shiki2025.png|Shiki Turret holding Yugioh cards up. The text reads, it's time to duel!]]
+Commissioned from [Rue](https://twitter.com/ruebirds)
 
 My online persona. Mainly used for
 - stream

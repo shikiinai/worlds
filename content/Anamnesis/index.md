@@ -1,7 +1,11 @@
 ---
 title: Anamnesis
 created: 2025-07-11
-updated: 2025-07-13
+updated: 2025-07-24
+alias:
+  - nemo
+  - anemone
+  - sea
 ---
 ![[cover.png|300]]
 
@@ -16,12 +20,12 @@ updated: 2025-07-13
 
 Main OC project centering on Fen and the people around him in the city Ataraxia. Nicknamed "Nemo" because Shiki stuttered on Anamnesis and said "anemone" instead, then shortened it to "nemo".
 
-The coffee shop AU, [[Cafe Nowhere]], is a much happier slice-of-life.
-## Links
+# Links
 - [ToyHouse](https://toyhou.se/shikiinai/characters/folder:458070)
 - [Writing](https://archiveofourown.org/works/59889481/chapters/152784202) ([Series](https://archiveofourown.org/series/4433482))
+- Coffee shop AU: [[Cafe Nowhere]]
 
-## Characters
+# Characters
 Keres
 - [[Fen]]
 - [[Agnes]]

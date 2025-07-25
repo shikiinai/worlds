@@ -1,6 +1,6 @@
 ---
 created: 2025-07-11
-updated: 2025-07-13
+updated: 2025-07-24
 ---
 # Basic Information
 |                   Category | Response               |
@@ -22,6 +22,8 @@ updated: 2025-07-13
 |                 Voice Type |                        |
 | Economic Status / Behavior |                        |
 |              Pets / Plants |                        |
+|                      Other | ToyHouse               |
+|                      Music |                        |
 
 | ✓ Likes | ☓ Dislikes |
 | :------ | :--------- |

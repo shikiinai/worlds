@@ -1,7 +1,7 @@
 ---
 title: Aozora Kaia
 created: 2025-07-11
-updated: 2025-07-15
+updated: 2025-07-24
 ---
 > [!EXAMPLE] Character Permissions
 > Kaia is a traveler, so she can go to other worlds and interact with everyone! Please keep her with [[Aozora Kaito|Kaito]]. He doesn't have to be present, but he has to be somewhere close.
@@ -13,28 +13,29 @@ updated: 2025-07-15
 
 ![[ref.png|Kaia and Kaito sitting together. Color reference.]]
 
-Kaia is the one on the left.
+Kaia is the one on the left. 
 # Basic Information
-|                   Category | Response                                          |
-| -------------------------: | :------------------------------------------------ |
-|            Name / Nickname | Aozora Kaia                                       |
-|          Gender / Pronouns | Female (she/her)                                  |
-|                    Species | Human                                             |
-|         Birthdate / Zodiac | October 24 / Scorpio                              |
-|                 Blood Type | B                                                 |
-|                 Birthplace | ?                                                 |
-|                     Height | 158.2 cm (5' 1.8")                                |
-|                     Weight | Refused measurement                               |
-|                        Age | Presents mid 20s                                  |
-|                Hair Colour | Black                                             |
-|                 Eye Colour | Black                                             |
-|               Other Colour | Prefers warm, bright colors                       |
-|                   Eyesight | Contacts                                          |
-|             Hand Dexterity | Right-handed                                      |
-|                 Voice Type | Bright                                            |
-| Economic Status / Behavior | Money? What's that?                               |
-|              Pets / Plants | -                                                 |
-|                      Other | [ToyHouse](https://toyhou.se/7519441.kaia-aozora) |
+|                   Category | Response                                                |
+| -------------------------: | :------------------------------------------------------ |
+|            Name / Nickname | Aozora Kaia                                             |
+|          Gender / Pronouns | Female (she/her)                                        |
+|                    Species | Human                                                   |
+|         Birthdate / Zodiac | October 24 / Scorpio                                    |
+|                 Blood Type | B                                                       |
+|                 Birthplace | ?                                                       |
+|                     Height | 158.2 cm (5' 1.8")                                      |
+|                     Weight | Refused measurement                                     |
+|                        Age | Presents mid 20s                                        |
+|                Hair Colour | Black                                                   |
+|                 Eye Colour | Black                                                   |
+|               Other Colour | Prefers warm, bright colors                             |
+|                   Eyesight | Contacts                                                |
+|             Hand Dexterity | Right-handed                                            |
+|                 Voice Type | Bright                                                  |
+| Economic Status / Behavior | Money? What's that?                                     |
+|              Pets / Plants | -                                                       |
+|                      Other | [ToyHouse](https://toyhou.se/7519441.kaia-aozora)       |
+|                      Music | [No title](https://www.youtube.com/watch?v=LfephiFN76E) |
 
 | ✓ Likes                                     | ☓ Dislikes |
 | :------------------------------------------ | :--------- |
@@ -66,9 +67,14 @@ Kaia's personal record of staying awake is five days.
 Kaia is nearsighted, but she wears contacts so most people don't know. She doesn't have glasses.
 
 Kaia is an insomniac and does not sleep well. This goes hand in hand with [maladaptive daydreaming](https://en.wikipedia.org/wiki/Maladaptive_daydreaming), where her nightmares may continue to haunt her after she physically wakes up. Kaito can bring her out of it most days, but sometimes they break their rule and stay a couple more days to recover.
+![[wakeup.png|Kaia waking up with tears in her eyes. The stress stitch loop on her neck is almost closed.]]
 ## Markings
 <!-- Scars, Burns, Skin Damage, Birthmarks, Tattoos -->
 A thin line with big and small stitch marks will start to appear on her neck as she gets more and more stressed. Eventually it loops around her neck, as if her head was sewn on.
+
+> [!bug]- cw: vent art
+> ![[raincloud.png|Kaia covering her face. Dark clouds swirl around her head, and the stress stitch marks have completed their loop around her neck. The text reads, maladaptive daydreaming, with day scribbled out.]]
+
 ## Other Distinctive Characteristics
 <!-- Nose & Eye Shape, Posture, Body Shape, Legs, Moles -->
 Her hair always parts to her left and does the Ghibli thing where it fluffs up or wilts depending on her mood.

@@ -1,6 +1,6 @@
 ---
 created: 2025-07-11
-updated: 2025-07-13
+updated: 2025-07-24
 ---
 
 > [!INFO] Status: Ongoing
@@ -9,5 +9,5 @@ updated: 2025-07-13
 > quick summary
 
 objective information
-## Links
+# Links
 - 

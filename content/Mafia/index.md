@@ -1,6 +1,6 @@
 ---
 created: 2025-07-11
-updated: 2025-07-14
+updated: 2025-07-24
 title: Mafia AU
 ---
 > [!info] Status: Ongoing
@@ -21,7 +21,7 @@ I took a bit long to start one of [[Friends#Moe|Moe]]'s commissions in late 2023
 
 ![[mafia_graphic.png|Moe in a suit, holsters and a black trench coat over his shoulders. He looks tired and irritated.]]
 
-Well, I peaked. I actually believe I can't make a talking PNG better than this. Anyway, [[Friends#Bimu|Bimu]] saw it, Bimu is weak to suits, Bimu also wanted a suit. Nothing much came out of it as everyone got busy, though.
+Well, I peaked. I firmly believe I can't make a talking PNG better than this. Anyway, [[Friends#Bimu|Bimu]] saw it, Bimu is weak to suits, Bimu also wanted a suit. Nothing much came out of it as everyone got busy, though.
 
 ## Sketch Pages
 Early 2025, I drew a sketch page of Mafia Moe as a warm up and test for a new type of commission.
@@ -36,7 +36,7 @@ Bimu mysteriously became the head of the mafia family Moe and I are a part of, a
 
 ![[mafiaBimu.png|Mafia Bimu in various poses, the most notable being her acting very composed and boss-like in front of Mafia Moe and Shiki, while fangirling about suits in her head.]]
 
-At some point, [[Friends#Timpani|Timpani]] also joined in on the fun as the neutral party.
+At some point, [[Friends#Timpani|Timpani]] also joined in on the fun as the [neutral party](https://wiki.timpaniumbra.xyz/AU-Showcase---Mafia/OC-Showcase---Mafia-Timpani).
 
 ![[mafiaTimpani.png|Mafia Timpani in various poses, such as collecting payment, or sitting at a handmade stand with the title "Change my mind" and a sticker that says "You won't."]]
 

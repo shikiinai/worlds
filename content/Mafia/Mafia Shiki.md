@@ -1,11 +1,11 @@
 ---
 title: Mafia Shiki
 created: 2025-07-11
-updated: 2025-07-14
+updated: 2025-07-24
 ---
 ![[mafiaShiki2.png|Mafia Shiki flat color reference.]]
 # Basic Information
-> [!warning] Only Bimu and the Hime family doctors know Shiki's half slug ancestry.
+> [!warning] Only Bimu and the Hime family doctors know of Shiki's half slug ancestry.
 > Moe *might* know but he certainly doesn't show it. Others may feel that something is slightly off about Shiki.
 
 |                   Category | Response                                                                                                                                                                                                                 |
@@ -28,6 +28,7 @@ updated: 2025-07-14
 | Economic Status / Behavior | The Hime family provides whatever they need. They will purchase whatever is necessary for missions, but tends to neglect their own actual needs. They forget that they're allowed to take care of themselves these days. |
 |              Pets / Plants | They have a sea otter who anchors with them at night.                                                                                                                                                                    |
 |                      Other | [ToyHouse](https://toyhou.se/16616079.shiki-turret/33996363.mafiashiki)                                                                                                                                                  |
+|                      Music | [クロイウタ (Kuroi uta)](https://www.youtube.com/watch?v=QMNNHQ5qSQQ)                                                                                                                                                         |
 
 | ✓ Likes            | ☓ Dislikes  |
 | :----------------- | :---------- |

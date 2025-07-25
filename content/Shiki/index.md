@@ -1,11 +1,15 @@
 ---
 created: 2025-07-11
-updated: 2025-07-12
+updated: 2025-07-24
 title: Shiki
+alias:
+  - robot
+  - who
+  - about
 ---
 There are many Shiki's out there, but the main one is [[shiki_turret]].
 ## Whomst'd've'ly'yaint'nt'ed'ies's'y'es
-Okay okay let me back up a bit. I do a little bit of everything, but mostly I like drawing and telling stories. I also play games, too many games. I'm most ~~consistently~~ active on Twitch and bsky... actually I'm not sure why you're asking, because if you're here you must have come from somewhere else??
+Okay okay let me back up a bit. I do a little bit of everything, but mostly I like drawing and telling stories. I also play games, too many games. I'm most ~~consistently~~ active on Twitch and bsky... actually I'm not sure why you're asking, because if you're here you must have come from one of those places or even the website...
 ## Inspiration
 The name "shiki" comes from 2 things.
 

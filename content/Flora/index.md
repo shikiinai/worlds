@@ -1,7 +1,10 @@
 ---
 title: Flora
 created: 2025-07-11
-updated: 2025-07-13
+updated: 2025-07-24
+alias:
+  - flower
+  - land
 ---
 
 > [!TLDR] Status: Perpetual

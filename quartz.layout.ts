@@ -23,6 +23,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.MobileOnly(Component.TableOfContents()),
   ],
   left: [
     Component.PageTitle(),
@@ -73,7 +74,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer({
       filterFn: (node) => {
         // set containing names of everything you want to filter out
-        const omit = new Set(["templates", "tags"])
+        const omit = new Set(["templates", "tags", "gallery"])
         const omitNames = !omit.has(node.displayName.toLowerCase())
 
         return omitNames

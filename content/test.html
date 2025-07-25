@@ -24,7 +24,100 @@
 </head>
 
 <body>
+
+    <div id="top"></div>
+    <div id="to-top"><a href="#top" title="back to top">^</a></div>
+
+    <header>
+        <h1><a class="h1" href="/">
+            your name goes here
+            </a>
+        </h1>
+        you could also put an image here, if you wanted! or a subtitle!
+
+        <nav>
+            <a href="/about">
+                your navigation
+            </a>
+            <a href="/comics">
+                links
+            </a>
+            <a href="/illustration">
+                go
+            </a>
+            <a href="/links">
+                here!
+            </a>
+        </nav>
+    </header>
+
     <main>
+        <h2>a very simple portfolio code template!</h2>
+        <p>
+            <a href="./">back to the blog post!</a>
+        </p>
+        <p>
+        <div class="box center">
+            <b>how to grab this code:</b>
+            <p>
+                right click on this page & select <i>view page source,</i> then copy everything that comes up!
+                paste that into your <code>index.html</code> file.
+            <p>then go to <a href="style.css">style.css</a> and copy-paste everything there into a
+                <code>style.css</code> file. edit to your heart's content.
+        </div>
+        this is some page content, in <b>bold,</b> <i>italic,</i> <u>underlined,</u> <mark>highlighted,</mark>
+        <code>code,</code> and <a href="/">link</a> varieties.
+        <p>the <code>p</code> tag denotes a paragraph, and the <code>br</code> tag will make a single line break,
+            <br>like this.
+        <p>
+
+            <!-- anything written like this won't show up in the actual page, only in your code - you can use this to write notes to yourself! -->
+             
+            the code includes 5 variables for colors you can edit:
+            <span style="display:inline-block;width:10px;height:10px;background:var(--text)"></span> text, <span
+                style="display:inline-block;width:10px;height:10px;background:var(--background);border:1px var(--text) solid"></span>
+            background, <span style="display:inline-block;width:10px;height:10px;background:var(--accent)"></span>
+            accent, <span style="display:inline-block;width:10px;height:10px;background:var(--accent-dark)"></span>
+            accent-dark, and <span
+                style="display:inline-block;width:10px;height:10px;background:var(--accent-light)"></span> accent-light.
+        <ul>
+            <li>
+                you can also make lists
+            </li>
+            <li>
+                unordered lists (<code>ul</code>) look like this
+            </li>
+        </ul>
+        <ol>
+            <li>
+                ordered lists (<code>ol</code>) look like this
+            </li>
+            <li>
+                (they have numbers)
+            </li>
+        </ol>
+
+        <blockquote>
+            this is a blockquote, which is good for quoting.
+        </blockquote>
+
+        <div class="box center">
+            this is a box - you can put special content into it, if you want. use <code>class="center"</code> to center
+            text.
+        </div>
+
+        <div class="flex">
+            <div class="box">
+                want to put two boxes next to each other? or text next to an image?
+            </div>
+            <div class="box">
+                use a <code>div class="flex"</code>!
+            </div>
+        </div>
+
+        <hr>
+        ^ that's an <code>hr</code> - a little dividing line to put between elements.
+
         <h3>image gallery</h3>
         <div id="gallery" class="columns">
             you can put text here, too, if you want. the number of columns will change depending on how wide the window
@@ -55,6 +148,19 @@
         <!-- don't get rid of this div, even though it looks empty - this is what makes your image lightbox work! -->
 
     </main>
+    <footer>
+        footer text! this is where you put things like:
+        <br>(c) you, 2025 - forever.
+        <p>base code by <a href="https://kayleerowena.com/blog/2025/code-template">kaylee rowena</a>. (you don't have to
+            leave this in here, but i'd appreciate if you link to me somewhere on your site so other people can grab the
+            template if they want to! i'm not your mom or a cop, though, so do whatever you want.)
+        <p>you can put social media links here too:
+            <br><a href="https://bsky.app">bsky</a> | <a
+                href="https://www.instagram.com">instagram</a> | <a
+                href="https://tumblr.com/">tumblr</a> | <a href="https://ko-fi.com">tip
+                jar</a> | <a href="mailto:your@email.address">email</a>
+    </footer>
+
 </body>
 
 <!-- this bit is what makes the image lightbox work! -->

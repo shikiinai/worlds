@@ -16,27 +16,27 @@ socialImage: assets/ref.png
 
 Kaito is the one on the right.
 # Basic Information
-|                   Category | Response                                                      |
-| -------------------------: | :------------------------------------------------------------ |
-|            Name / Nickname | Aozora Kaito                                                  |
-|          Gender / Pronouns | Male (he/him)                                                 |
-|                    Species | Human*                                                        |
-|         Birthdate / Zodiac | October 24 / Scorpio                                          |
-|                 Blood Type | B                                                             |
-|                 Birthplace | ?                                                             |
-|                     Height | 170 cm (5'7")                                                 |
-|                     Weight | Refused measurement                                           |
-|                        Age | Presents mid 20s                                              |
-|                Hair Colour | Black                                                         |
-|                 Eye Colour | Black                                                         |
-|               Other Colour | Prefers dark, faded colors                                    |
-|                   Eyesight | 20/20                                                         |
-|             Hand Dexterity | Ambidextrous (left handed)                                    |
-|                 Voice Type | Soft baritone                                                 |
-| Economic Status / Behavior | Cheap but makes sure they have the necessary supplies         |
-|              Pets / Plants | \-                                                            |
-|                      Other | [ToyHouse](https://toyhou.se/7519449.kaito-aozora)            |
-|                      Music | [贖罪 (Repentance)](https://www.youtube.com/watch?v=j1ArobXFdy) |
+|                   Category | Response                                                                   |
+| -------------------------: | :------------------------------------------------------------------------- |
+|            Name / Nickname | Aozora Kaito                                                               |
+|          Gender / Pronouns | Male (he/him)                                                              |
+|                    Species | Human*                                                                     |
+|         Birthdate / Zodiac | October 24 / Scorpio                                                       |
+|                 Blood Type | B                                                                          |
+|                 Birthplace | ?                                                                          |
+|                     Height | 170 cm (5'7")                                                              |
+|                     Weight | Refused measurement                                                        |
+|                        Age | Presents mid 20s                                                           |
+|                Hair Colour | Black                                                                      |
+|                 Eye Colour | Black                                                                      |
+|               Other Colour | Prefers dark, faded colors                                                 |
+|                   Eyesight | 20/20                                                                      |
+|             Hand Dexterity | Ambidextrous (left handed)                                                 |
+|                 Voice Type | Soft baritone                                                              |
+| Economic Status / Behavior | Cheap but makes sure they have the necessary supplies                      |
+|              Pets / Plants | \-                                                                         |
+|                      Other | [ToyHouse](https://toyhou.se/7519449.kaito-aozora)                         |
+|                      Music | [When the Earth Stands Still](https://www.youtube.com/watch?v=if_Y_X3owZ4) |
 
 | ✓ Likes       | ☓ Dislikes       |
 | :------------ | :--------------- |

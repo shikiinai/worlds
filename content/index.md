@@ -1,14 +1,13 @@
 ---
 title: The Library
-modified: 2025-07-25
+modified: 2025-07-28
 created: 2025-07-11
 ---
 Hello and welcome! This is where I keep notes, lore, project records and other things about my OCs (Original Characters). I have... many...
 
 First, if you don't know who I am, I'm [[Shiki/index|Shiki]]. I'm also part of some groups that really like story telling, so you might see some projects and AUs (Alternate Universes) about that too.
 
-Hope you enjoy your stay.
-
+If you're not sure how you got here, [press here to go back to the main site](https://shikiturret.xyz).
 ## Quick Rules
 Some quick rules on playing in this space:
 - Please do not take my OCs and call them your own. They are pieces of my soul.

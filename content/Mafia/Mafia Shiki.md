@@ -140,7 +140,7 @@ Not interested in romance or intimate relationships.
 Bimu is Shiki's life saver and good friend. Shiki secretly admires Bimu for how passionate she is with everything. As her right hand, Shiki feels pressured to make sure Bimu is able to lean on them whenever she needs it. They also work in the background so Bimu has less things to worry about.
 ### Moe
 Moe is Shiki's squad partner and rival. Shiki navigates for him or goes with him on missions sometimes. Moe brings out a younger, more competitive Shiki who believed there was good in the world. Their banter is friendlier.
-### Timpani
+### [Timpani](https://wiki.timpaniumbra.xyz/AU-Showcase---Mafia/OC-Showcase---Mafia-Timpani)
 They are business partners. Timpani is a good source of info and arms. Shiki sends little robots to retrieve pickup orders from Timpani's store. When the little guys are unavailable, though, Shiki will request delivery to various P.O. boxes in the city for later retrieval.
 
 Occasionally, shit hits the fan and Shiki has to order in person. They feel uncomfortable under Timpani’s intense stare and smile, so they make small talk to dodge Timpani’s questions.

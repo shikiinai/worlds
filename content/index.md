@@ -40,3 +40,5 @@ There may be lore spoilers or secrets for the sake of completion. These will be 
 ### AUs
 - [[Cafe Nowhere]] (Anamnesis coffee shop AU)
 - [[Mafia/index|Mafia AU]]
+
+![[Update Log#Recent Update]]

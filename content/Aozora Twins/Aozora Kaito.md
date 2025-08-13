@@ -1,7 +1,7 @@
 ---
 title: Aozora Kaito
 created: 2025-07-11
-modified: 2025-07-25
+modified: 2025-08-06T19:56
 socialImage: assets/ref.png
 ---
 > [!EXAMPLE] Character Permissions
@@ -18,7 +18,7 @@ Kaito is the one on the right.
 # Basic Information
 |                   Category | Response                                                                   |
 | -------------------------: | :------------------------------------------------------------------------- |
-|            Name / Nickname | Aozora Kaito                                                               |
+|            Name / Nickname | Aozora Kaito (青空海斗)                                                        |
 |          Gender / Pronouns | Male (he/him)                                                              |
 |                    Species | Human*                                                                     |
 |         Birthdate / Zodiac | October 24 / Scorpio                                                       |

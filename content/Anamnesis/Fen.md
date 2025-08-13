@@ -1,6 +1,6 @@
 ---
 created: 2025-07-11
-modified: 2025-07-28
+modified: 2025-08-06T19:58
 ---
 > [!quote] Good night.
 
@@ -101,7 +101,8 @@ Despite Teach's best efforts, Fen doesn't have a moral compass. Rather, he knows
 <!-- Music / Newspapers Books/ Magazines Movies
 Creative Pursuits Collections Favourite / Least Favourite Colour Perfume / Cologne Décor / Fashion Location People, Favourite Stores / Brands, Favourite Things, Wears Accessories? Taste / Drugs, Wine / Food, Supernatural Abilities, Attuned to Spirits? Fortunes Accent / Dialect Sixth Sense for Certain Things, etc  -->
 - Fen has impeccable muscle memory
-- He's bad at math, especially mental math.
+- He's bad at math, especially mental math
+- His name is shortened from [Fenrir / Fenris](https://en.wikipedia.org/wiki/Fenrir)
 # Social
 ## People They Admire
 Passionate people.
@@ -149,4 +150,4 @@ Fen doesn't understand Soren. He grates on Fen's nerves, but unlike Valeri, he a
 
 Cafe Nowhere Fen likes spiced coffee, so much that he brought his own spices to the cafe. Valeri made him throw them out because his spices were two years expired, but she also bought spice tins specifically for him. They live under the counter so customers won't ask about it.
 
-Although he's technically a junior majoring in Chemistry, Fen often skips class to practice coffee. His roommate is studying for the both of them... but the material comes easily to Fen, so Fen doesn't care much. The professors don't care much about inspiring their students either, so at this rate Fen might graduate with a B.S. in Chemistry and work at Cafe Nowhere full time.
+Although he's technically a junior majoring in Chemistry, Fen often skips class to practice coffee. His roommate is studying for the both of them... but the material comes easily to Fen, so Fen doesn't care much. The professors don't try to inspire their students either, so at this rate Fen might graduate with a B.S. in Chemistry and work at Cafe Nowhere full time.

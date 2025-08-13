@@ -1,7 +1,7 @@
 ---
 title: Aozora Kaia
 created: 2025-07-11
-modified: 2025-07-25
+modified: 2025-08-06T19:55
 socialImage: assets/ref.png
 ---
 > [!EXAMPLE] Character Permissions
@@ -18,7 +18,7 @@ Kaia is the one on the left.
 # Basic Information
 |                   Category | Response                                                |
 | -------------------------: | :------------------------------------------------------ |
-|            Name / Nickname | Aozora Kaia                                             |
+|            Name / Nickname | Aozora Kaia (青空海愛)                                      |
 |          Gender / Pronouns | Female (she/her)                                        |
 |                    Species | Human                                                   |
 |         Birthdate / Zodiac | October 24 / Scorpio                                    |

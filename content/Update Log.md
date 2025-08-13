@@ -1,6 +1,6 @@
 ---
 created: 2025-07-28
-modified: 2025-08-12T21:25
+modified: 2025-08-13T16:25
 ---
 
 This page is organized in chronological order. To allow for embedding on the home page, the most recent update is placed at the bottom.
@@ -11,7 +11,10 @@ This page is organized in chronological order. To allow for embedding on the hom
 2025.07.28 
 - Added [[Fen]], [[Update Log]]
 - Updated [[Anamnesis/index|Anamnesis index]], [[index|home page]]
----
-# Recent Update
 2025.08.12
 - Added [[Hydrangea]]
+---
+# Recent Update
+2025.08.13
+- Added [[Albi]], [[Tsuiyue]]
+- Updated [[Flora/index|Flora page]], previous character pages to include artist credit in music links

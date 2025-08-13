@@ -1,6 +1,6 @@
 ---
 created: 2025-07-11
-modified: 2025-08-06T19:58
+modified: 2025-08-13T16:26
 ---
 > [!quote] Good night.
 
@@ -13,7 +13,7 @@ The man needs sleep. Let him sleep.
 # Basic Information
 |                                                                        Category | Response                                                                                                                                      |
 | ------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------- |
-|                                                                 Name / Nickname | Fen<br>Code name Erebus<br>pup ([[Darian]])<br>little one ([[Valeri]])                                                                        |
+|                                                                 Name / Nickname | Fen<br>Code name Erebus<br>pup (Darian)<br>little one (Valeri)                                                                                |
 |                                                               Gender / Pronouns | he/him                                                                                                                                        |
 |                                                                         Species | Human                                                                                                                                         |
 |                                                              Birthdate / Zodiac | April 20 (Taurus)                                                                                                                             |
@@ -35,7 +35,7 @@ The man needs sleep. Let him sleep.
 
 | ✓ Likes                                  | ☓ Dislikes                      |
 | :--------------------------------------- | :------------------------------ |
-| Coffee with too much sugar ™️            | [[Soren]]                       |
+| Coffee with too much sugar ™️            | Soren                           |
 | Nature (he doesn't get to touch it much) | Technology (it breaks too fast) |
 
 ## ♡ Favorite...
@@ -50,7 +50,7 @@ The man needs sleep. Let him sleep.
 |        Sound | The wisteria rustling in the wind       |
 
 ## Employment / Education
-As far as Fen is aware, he grew up in the Egg since he doesn't remember life before the Egg. [[Teach]] taught him everything he knows, and he would visit the main building of Morpheus for routine tests and check-ups. Aptitude tests and training assignments were completed on the Egg training grounds. He was summoned to Darian's office when he reached 16, and has been working as a Ker ever since.
+As far as Fen is aware, he grew up in the Egg since he doesn't remember life before the Egg. Teach taught him everything he knows, and he would visit the main building of Morpheus for routine tests and check-ups. Aptitude tests and training assignments were completed on the Egg training grounds. He was summoned to Darian's office when he reached 16, and has been working as a Ker ever since.
 
 Fen is not leader of the Keres by choice, rather the others tend to look at him for guidance. On paper he's listed as the leader because he's the first Ker.
 
@@ -76,7 +76,7 @@ Fen is reserved and a man of few words. He is loyal, though he already knows he'
 <!-- as an Infant / Young Child; include who was involved -->
 He doesn't remember :) You can't be hurt if you forget it, right? :)
 ## Dreams for the Future
-A world where [[Agnes|Ari]] and [[Oliver|Oli]] live happily.
+A world where Ari and Oli live happily.
 ## Fears
 Losing the people important to him
 ## Hobbies
@@ -122,13 +122,13 @@ They hang out together often, where Ari's nose is buried deep in a book while Fe
 Most of Fen's brainpower on off days is dedicated to figuring out a routine that will burn Oli's energy. Fen welcomes the challenge, both mentally and physically, as he tests out the routine together with Oli to make sure there aren't any training gaps. Since Fen has much lower energy levels, Oli also pushes him to become more efficient when they train together.
 
 Oli and Fen have a mutual pranking streak of 342. Mostly it begins with Oli and Fen retaliates with something equally silly, with short week-long pauses over the years by Ari's intervention ("Fen, be the bigger person!!" "Why???").
-### [[Vino]]
+### Vino
 Fen respects Vino for being very good at what they do. They were literally a blank slate when they moved into the Egg a couple years ago, so Fen is proud of them for growing so much. Fen can't claim to understand much of Vino's interests, but he's willing to listen when Vino needs a sounding board.
 
 Fen hopes Vino never needs to go out on missions with him.
-### [[Valeri]]
+### Valeri
 Fen does not like Valeri, full stop. They got off on the wrong foot, and Fen has his suspicions on other things, but she somehow gets under his skin every time she opens her mouth. It takes every inch of self control in Fen to stop himself from strangling her. He's still in disbelief that *this* is the mythical roommate that Teach won't shut up about, and is tolerating her purely for Teach's sake.
-### [[Pinky]]
+### Pinky
 Put two introverts in a room and you have Fen and Pinky. They are amicable and respectful colleagues, but they don't talk or interact much beyond that. Pinky's near worshipping behavior of Darian unsettles Fen, but to each their own.
 ## Problematic Relationships
 <!-- include behavior towards them -->

@@ -1,7 +1,7 @@
 ---
 title: Aozora Kaia
 created: 2025-07-11
-modified: 2025-08-06T19:55
+modified: 2025-08-13T15:25
 socialImage: assets/ref.png
 ---
 > [!EXAMPLE] Character Permissions
@@ -16,27 +16,27 @@ socialImage: assets/ref.png
 
 Kaia is the one on the left. 
 # Basic Information
-|                   Category | Response                                                |
-| -------------------------: | :------------------------------------------------------ |
-|            Name / Nickname | Aozora Kaia (青空海愛)                                      |
-|          Gender / Pronouns | Female (she/her)                                        |
-|                    Species | Human                                                   |
-|         Birthdate / Zodiac | October 24 / Scorpio                                    |
-|                 Blood Type | B                                                       |
-|                 Birthplace | ?                                                       |
-|                     Height | 158.2 cm (5' 1.8")                                      |
-|                     Weight | Refused measurement                                     |
-|                        Age | Presents mid 20s                                        |
-|                Hair Colour | Black                                                   |
-|                 Eye Colour | Black                                                   |
-|               Other Colour | Prefers warm, bright colors                             |
-|                   Eyesight | Contacts                                                |
-|             Hand Dexterity | Right-handed                                            |
-|                 Voice Type | Bright                                                  |
-| Economic Status / Behavior | Money? What's that?                                     |
-|              Pets / Plants | -                                                       |
-|                      Other | [ToyHouse](https://toyhou.se/7519441.kaia-aozora)       |
-|                      Music | [No title](https://www.youtube.com/watch?v=LfephiFN76E) |
+|                   Category | Response                                                       |
+| -------------------------: | :------------------------------------------------------------- |
+|            Name / Nickname | Aozora Kaia (青空海愛)                                             |
+|          Gender / Pronouns | Female (she/her)                                               |
+|                    Species | Human                                                          |
+|         Birthdate / Zodiac | October 24 / Scorpio                                           |
+|                 Blood Type | B                                                              |
+|                 Birthplace | ?                                                              |
+|                     Height | 158.2 cm (5' 1.8")                                             |
+|                     Weight | Refused measurement                                            |
+|                        Age | Presents mid 20s                                               |
+|                Hair Colour | Black                                                          |
+|                 Eye Colour | Black                                                          |
+|               Other Colour | Prefers warm, bright colors                                    |
+|                   Eyesight | Contacts                                                       |
+|             Hand Dexterity | Right-handed                                                   |
+|                 Voice Type | Bright                                                         |
+| Economic Status / Behavior | Money? What's that?                                            |
+|              Pets / Plants | -                                                              |
+|                      Other | [ToyHouse](https://toyhou.se/7519441.kaia-aozora)              |
+|                      Music | [Reol - No title](https://www.youtube.com/watch?v=LfephiFN76E) |
 
 | ✓ Likes                                     | ☓ Dislikes |
 | :------------------------------------------ | :--------- |

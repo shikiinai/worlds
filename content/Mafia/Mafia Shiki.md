@@ -1,7 +1,7 @@
 ---
 title: Mafia Shiki
 created: 2025-07-11
-modified: 2025-07-25
+modified: 2025-08-13T15:27
 socialImage: assets/mafiaShiki2.png
 ---
 ![[mafiaShiki2.png|Mafia Shiki flat color reference.]]
@@ -29,7 +29,7 @@ socialImage: assets/mafiaShiki2.png
 | Economic Status / Behavior | The Hime family provides whatever they need. They will purchase whatever is necessary for missions, but tends to neglect their own actual needs. They forget that they're allowed to take care of themselves these days. |
 |              Pets / Plants | They have a sea otter who anchors with them at night.                                                                                                                                                                    |
 |                      Other | [ToyHouse](https://toyhou.se/16616079.shiki-turret/33996363.mafiashiki)                                                                                                                                                  |
-|                      Music | [クロイウタ (Kuroi uta)](https://www.youtube.com/watch?v=QMNNHQ5qSQQ)                                                                                                                                                         |
+|                      Music | [Eir aoi - クロイウタ (Kuroi uta)](https://www.youtube.com/watch?v=QMNNHQ5qSQQ)                                                                                                                                               |
 
 | ✓ Likes            | ☓ Dislikes  |
 | :----------------- | :---------- |

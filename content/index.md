@@ -1,6 +1,6 @@
 ---
 title: The Library
-modified: 2025-07-28
+modified: 2025-08-16T22:22
 created: 2025-07-11
 ---
 Hello and welcome! This is where I keep notes, lore, project records and other things about my OCs (Original Characters). I have... many...
@@ -10,7 +10,9 @@ First, if you don't know who I am, I'm [[Shiki/index|Shiki]]. I'm also part of s
 If you're not sure how you got here, [press here to go back to the main site](https://shikiturret.xyz).
 ## Quick Rules
 Some quick rules on playing in this space:
-- Please do not take my OCs and call them your own. They are pieces of my soul.
+- Be cringe, be free, but don't be a dick.
+- Let me know if you see any errors!
+- Most art is made by me or otherwise credited in a caption under the picture.
 - General character permissions:
 	- Characters generally stay within their world. Kaito and Kaia are travelers, so they can interact with anyone and everyone!
 	- **✓ Fan art**: there's an ongoing competition for the top 3 characters with the most art! I try to list them out every so often

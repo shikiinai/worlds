@@ -1,7 +1,7 @@
 ---
 title: Anamnesis
 created: 2025-07-11
-modified: 2025-08-01
+modified: 2025-10-04T09:42
 alias:
   - nemo
   - anemone
@@ -28,7 +28,7 @@ Main OC project centering on Fen and the people around him in the city Ataraxia.
 # Characters
 Currently there are two main groups of characters, the Keres and people under Morpheus.
 ## Keres
-The Keres project refers to a group of people living in the Egg, a suspended ovular building where Darian is researching self-sufficient ecosystems. Each Ker is given a codename (or project name, depending on who you ask), which is used mostly when talking about them in public as the Keres project considered level 2 clearance information. With higher clearance that basically consists of Darian, Pinky, Teach, and a couple more researchers, the experiment expands in scope to include observation of each Ker and their potential superpowers.
+The Keres project refers to a group of people living in the Egg, a suspended ovular building where Darian is researching self-sufficient ecosystems. Each Ker is given a codename (or project name, depending on who you ask), which is used mostly when talking about them in public as the Keres project is considered level 2 clearance information. With higher clearance that basically consists of Darian, Pinky, Teach, and a couple more researchers, the experiment expands in scope to include observation of each Ker and their potential superpowers.
 
 | Ker     | Codename | Notes                                                                             |
 | ------- | -------- | :-------------------------------------------------------------------------------- |

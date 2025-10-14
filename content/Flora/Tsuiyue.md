@@ -1,6 +1,6 @@
 ---
 created: 2025-07-11
-modified: 2025-08-13T16:10
+modified: 2025-08-16T22:24
 ---
 > [!quote] What are you buyin'? 
 
@@ -36,7 +36,7 @@ Tsuiyue likes laughing. They're all smiles, even when they're threatening to sna
 ## Trivia
 <!-- Music / Newspapers Books/ Magazines Movies
 Creative Pursuits Collections Favourite / Least Favourite Colour Perfume / Cologne Décor / Fashion Location People, Favourite Stores / Brands, Favourite Things, Wears Accessories? Taste / Drugs, Wine / Food, Supernatural Abilities, Attuned to Spirits? Fortunes Accent / Dialect Sixth Sense for Certain Things, etc  -->
-- The literal translation of its name is "to rush the moon", but think more along the lines of 催眠 / hypnosis. Its name is alludes to morphine and hypnosis-based therapy
+- The literal translation of its name is "to rush the moon", but think more along the lines of 催眠 / hypnosis. Its name alludes to morphine and hypnosis-based therapy
 - Their right earring resembles a pendulum
 - Their left eye does not open. The scar is white from latex; it's an old wound but it likes to open itself sometimes depending on the weather
 - Chronic pain + pharmacy = self prescribed smoking, you know the drill

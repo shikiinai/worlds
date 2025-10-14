@@ -1,6 +1,6 @@
 ---
 created: 2025-07-11
-modified: 2025-08-13T16:26
+modified: 2025-09-22T19:43
 ---
 > [!quote] Good night.
 
@@ -71,7 +71,7 @@ His hair is floofy and messy. He has eye bags.
 # Personality
 <!-- Cheerful / Gloomy? 
 Humorous / Violent? Active? Sociable? Intellectual? Virtuous? Expressive? Weakness / Worries / Unusual Traits. What is distinctive about them? -->
-Fen is reserved and a man of few words. He is loyal, though he already knows he's likely one of the "bad guys." He doesn't mind getting his hands dirtier as long as the Keres are alive and well; there is few that he hasn't done already, after all.
+Fen is reserved and a man of few words. He is loyal, though he already knows he's likely one of the "bad guys." He doesn't mind getting his hands dirtier as long as the Keres are alive and well; there's not much  that he hasn't done already, after all.
 ## Formative Experiences
 <!-- as an Infant / Young Child; include who was involved -->
 He doesn't remember :) You can't be hurt if you forget it, right? :)

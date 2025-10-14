@@ -1,6 +1,6 @@
 # Worlds
 
-Shiki's quartz repo (hacked together tbh, we'll see if it updates later). In the quartz directory,
+Shiki's quartz repo. In the quartz directory,
 
 [Update quartz](https://quartz.jzhao.xyz/upgrading) with
 ```bash

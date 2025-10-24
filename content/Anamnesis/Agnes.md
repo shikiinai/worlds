@@ -125,6 +125,7 @@ Ari doesn't interact with Pinky much outside of the few times she was in Darian'
 Ari and Oli are so close, they may as well be attached at the hip. They tell each other *everything*; Oli losing his voice just made his words per minute shoot up and Ari can barely get a word in. Ari will lecture Oli because he doesn't know any better. As siblings do, they fight, but they stay together because he is all she has.
 # Cafe Nowhere Ari
 ![[cafeNowhereAri.png|A profile of Ari smiling.]]
+
 Cafe Nowhere Ari likes latte; something about warm milk, and Fen's patterns get prettier every time. Her hair is still white and she wears glasses, although she's self conscious about the glasses and only wears them when studying.
 
 Ari is a freshman at the same university as Fen, taking her pre-reqs and aiming to either go into Marine Biology, or Bio chem to specialize into med school. She excels in the natural sciences, but if she needs to do one more integral she is going to lose it.

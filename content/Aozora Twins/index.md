@@ -6,7 +6,7 @@ alias:
   - twins
   - sky
 ---
-
+![[2025bday.png|The Aozora twins relaxing on a couch under an open window. Kaia babbles to a sleepy Kaito as she fidgets with a opal crystal.]]
 
 > [!TLDR] Status: Perpetual
 

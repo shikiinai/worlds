@@ -1,10 +1,10 @@
 ---
 title: Logs
 created: 2025-07-12
-modified: 2025-07-25
+modified: 2025-10-20T14:22
 ---
 
-## 00_aDeal.log
+# 00_aDeal.log
 ![[00.jpg|Shiki_turret looks up blankly at the floating, snickering demon Sore from their seat in the middle of a trash pile.]]
 
 Sitting on top of the trash pile, the robot wondered when the factory manager would return. The manager had told them to stay put, and mumbled something about a "darned glitch" as he left. It had been days, weeks, since then.
@@ -42,7 +42,7 @@ Sitting on top of the trash pile, the robot wondered when the factory manager wo
 [????] i think Sore changed their name? i'm not sure where they are now, but i hope they are thriving
 ```
 
-## 01_love.log
+# 01_love.log
 ![[01.jpg|Mai, Shiki and Ren fall to land on a chimney in the snowing night. The text reads, "Happy Holidays from L'amour."]]
 
 "Wow, there are so many gifts in this bag!"
@@ -67,7 +67,7 @@ Sitting on top of the trash pile, the robot wondered when the factory manager wo
 [2021.05.27] an idol trainee, a mochi singer, and a robot became fast friends, calling themselves l'amour
 ```
 
-## 02_temperatureFault.log
+# 02_temperatureFault.log
 > reaching sea level altitude... plane has alighted.
 > warning: weather in the area has an average temperature 2 deviations higher than the laboratory. proceed with caution.
 

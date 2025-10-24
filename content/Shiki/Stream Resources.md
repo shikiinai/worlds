@@ -1,16 +1,16 @@
 ---
 created: 2025-10-14T12:35
-modified: 2025-10-14T13:06
+modified: 2025-10-20T14:22
 ---
 Some people have asked me about various things on my stream, so I'm documenting them here to share.
 
-## Ad Breaks
+# Ad Breaks
 I typically do 3 minutes of continuous ads per hour. This allows for 2 things on Twitch:
 1. Incoming viewers don't get any pre-roll ads, so they can start watching immediately.
 2. During the 3 minute ad break, everyone (including me) can get up and take a little break from the computer screen. No one misses anything. The general exception to this is during collabs with friends.
 
 There are 2 parts to setting this up -- setting the automatic ad manager and announcing it in chat.
-### How to set 3 minutes of ads every hour
+## How to set 3 minutes of ads every hour
 - Go to Twitch > Creator Dashboard > Monetization > Ads
 - Turn on Ad Manager if it's not activated (this runs ads automatically according to a schedule)
 - Ad Minutes Per Hour: 3 (this turns off pre-roll ads for new viewers for the entire hour)
@@ -22,7 +22,7 @@ There are 2 parts to setting this up -- setting the automatic ad manager and ann
 - Back to General in the first page, disable Pre-roll ads
 - You can enable Stream Display Ads if you want, they're like banners under the video and less intrusive, but I've never seen them so I don't know if they actually exist
 
-### How to announce an ad break in chat
+## How to announce an ad break in chat
 I also have my bot announce ad breaks as a reminder to both chat and myself that there's an ad break coming soon. Depending on the bot you use, you may or may not have this available to you. These are the ones that I used or have looked into for others.
 
 > [!info]- [Streamer.bot](https://streamer.bot/)
@@ -32,14 +32,14 @@ I also have my bot announce ad breaks as a reminder to both chat and myself that
 > [!info]- StreamElements
 > Go to Stream Elements > Chatbot > Modules > Chat Alerts and enable Adbreak. You can change the message in the settings attached to it.
 
-## Captions
+# Captions
 Captions are a very good thing to have, especially if you have viewers who don't have access to audio. There are 2 types of captions, closed and open.
 
 **Closed captions** are not visible / "closed" to the viewer until they enable it. This is what a lot of people refer to as "CC". I use the [Closed Captioning OBS Plugin](https://github.com/ratwithacompiler/OBS-captions-plugin) for this; it works as a standalone OBS plugin and is also available in the VODs.
 
 **Open captions** are embedded into the video (so the viewer can't turn it off), but you can do some fun things with it, like change the styling and create a dedicated box for it. You can use [curses](github.com/mmpneo/curses/) to create Speech to Text (STT) captions to display on OBS and Discord.
 
-## Text to Speech (TTS)
+# Text to Speech (TTS)
 Some days my environment is really noisy, or I'm simply nonverbal, and it doesn't make sense for me to use my mic. On those days, I use the TTS section of Curses to read out my typing. 
 
 You can select where the audio output is sent. In my case, I want it to go to other applications, like OBS for stream or Discord for VC. I use [VB-CABLE Virtual Audio Device](https://vb-audio.com/Cable/index.htm) to do this.

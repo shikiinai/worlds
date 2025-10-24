@@ -1,6 +1,6 @@
 ---
 created: 2025-07-11
-modified: 2025-09-22T19:43
+modified: 2025-10-23T21:12
 ---
 > [!quote] Good night.
 
@@ -13,10 +13,10 @@ The man needs sleep. Let him sleep.
 # Basic Information
 |                                                                        Category | Response                                                                                                                                      |
 | ------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------- |
-|                                                                 Name / Nickname | Fen<br>Code name Erebus<br>pup (Darian)<br>little one (Valeri)                                                                                |
+|                                                             Name / <br>Nickname | Fen<br>Code name Erebus<br>pup (Darian)<br>little one (Valeri)                                                                                |
 |                                                               Gender / Pronouns | he/him                                                                                                                                        |
 |                                                                         Species | Human                                                                                                                                         |
-|                                                              Birthdate / Zodiac | April 20 (Taurus)                                                                                                                             |
+|                                                          Birthdate / <br>Zodiac | April 20 (Taurus)                                                                                                                             |
 | Blood Type ([ref](https://www.redcrossblood.org/donate-blood/blood-types.html)) | AB<br>His blood is black, but it apparently only affects his red cells (black cells?). His plasma is fine if you're able to separate the two. |
 |                                                                      Birthplace | Ataraxia born, raised as a lab baby in the Egg                                                                                                |
 |                                                                          Height | 176 cm (5'9")                                                                                                                                 |
@@ -28,8 +28,8 @@ The man needs sleep. Let him sleep.
 |                                                                        Eyesight | Perfect                                                                                                                                       |
 |                                                                  Hand Dexterity | Ambidextrous (right handed)                                                                                                                   |
 |                                                                      Voice Type | Warm sleepy baritone                                                                                                                          |
-|                                                      Economic Status / Behavior | Company card pays for everything. He knows the market price of different coffee beans but he would get scammed for anything else.             |
-|                                                                   Pets / Plants | Ideal pet would be an otter                                                                                                                   |
+|                                                   Economic Status /<br>Behavior | Company card pays for everything. He knows the market price of different coffee beans but he would get scammed for anything else.             |
+|                                                               Pets / <br>Plants | Ideal pet would be an otter                                                                                                                   |
 |                                                                           Other | [ToyHouse](https://toyhou.se/2274669.fen)                                                                                                     |
 |                                                                           Music | [Mendelssohn - Songs without Words](https://www.youtube.com/watch?v=BnMlTRAWN0w)                                                              |
 
@@ -109,12 +109,11 @@ Passionate people.
 ## People They Dislike
 People who don't respect personal space.
 ## Relationships
-<!-- include behavior towards them -->
 ### Teach
 Teach tried to raise Fen to be a good person. Unfortunately, she isn't a very good person either, but they both try their best with what they're given. Fen and Teach get along; they respect each other with lighthearted nagging. 
 
 Teach does mini therapy sessions with Fen every couple days where they walk around the Egg, catching up on life and talking things out. Fen deflects sometimes by teasing Teach about her roommate.
-### Ari
+### [[Agnes|Ari]]
 Fen jokes that no fun is allowed around Ari, but the fact that he jokes at all is an indication of how close they are. Ari nags Fen to take better care of himself, and Fen retorts that Ari should learn to protect herself.
 
 They hang out together often, where Ari's nose is buried deep in a book while Fen catches a light snooze next to her. Sometimes Ari succumbs to the afternoon sleepiness and naps with him. 

@@ -1,7 +1,7 @@
 ---
 title: Anamnesis
 created: 2025-07-11
-modified: 2025-10-04T09:42
+modified: 2025-10-23T21:24
 alias:
   - nemo
   - anemone
@@ -30,14 +30,14 @@ Currently there are two main groups of characters, the Keres and people under Mo
 ## Keres
 The Keres project refers to a group of people living in the Egg, a suspended ovular building where Darian is researching self-sufficient ecosystems. Each Ker is given a codename (or project name, depending on who you ask), which is used mostly when talking about them in public as the Keres project is considered level 2 clearance information. With higher clearance that basically consists of Darian, Pinky, Teach, and a couple more researchers, the experiment expands in scope to include observation of each Ker and their potential superpowers.
 
-| Ker     | Codename | Notes                                                                             |
-| ------- | -------- | :-------------------------------------------------------------------------------- |
-| [[Fen]] | Erebus   | Leader of the Keres (by seniority), Darian's favorite                             |
-| Agnes   | Hemera   |                                                                                   |
-| Oliver  | Aether   |                                                                                   |
-| Vino    | Hermes   | Does not have superpowers, but has impeccable memory.                             |
-| Teach   | \-       | Technically not a Ker, rather their counselor and handler. Lives outside the Egg. |
-| Valeri  | Raven    | Lives outside the Egg.                                                            |
+| Ker       | Codename | Notes                                                                             |
+| --------- | -------- | :-------------------------------------------------------------------------------- |
+| [[Fen]]   | Erebus   | Leader of the Keres (by seniority), Darian's favorite                             |
+| [[Agnes]] | Hemera   |                                                                                   |
+| Oliver    | Aether   |                                                                                   |
+| Vino      | Hermes   | Does not have superpowers, but has impeccable memory.                             |
+| Teach     | \-       | Technically not a Ker, rather their counselor and handler. Lives outside the Egg. |
+| Valeri    | Raven    | Lives outside the Egg.                                                            |
 
 ## Morpheus
 Morpheus built a city around itself by selling technology that allegedly makes all dreams come true, while keeping everyone safe, even from themselves. The CEO and founder of Morpheus, the Madame, split the company into two major departments: the Dreamers (research and development) who build creations to enrich lives, and the Knights (security) who protect them. 

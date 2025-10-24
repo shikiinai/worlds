@@ -1,7 +1,7 @@
 ---
 title: Aozora Kaia
 created: 2025-07-11
-modified: 2025-08-13T15:25
+modified: 2025-10-23T22:07
 socialImage: assets/ref.png
 ---
 > [!EXAMPLE] Character Permissions
@@ -68,7 +68,6 @@ Kaia's personal record of staying awake is five days.
 Kaia is nearsighted, but she wears contacts so most people don't know. She doesn't have glasses.
 
 Kaia is an insomniac and does not sleep well. This goes hand in hand with [maladaptive daydreaming](https://en.wikipedia.org/wiki/Maladaptive_daydreaming), where her nightmares may continue to haunt her after she physically wakes up. Kaito can bring her out of it most days, but sometimes they break their rule and stay a couple more days to recover.
-![[wakeup.png|Kaia waking up with tears in her eyes. The stress stitch loop on her neck is almost closed.]]
 ## Markings
 <!-- Scars, Burns, Skin Damage, Birthmarks, Tattoos -->
 A thin line with big and small stitch marks will start to appear on her neck as she gets more and more stressed. Eventually it loops around her neck, as if her head was sewn on.

@@ -1,7 +1,7 @@
 ---
 title: Aozora Twins
 created: 2025-07-11
-modified: 2025-10-23T22:05
+modified: 2025-10-23T22:36
 alias:
   - twins
   - sky
@@ -68,7 +68,7 @@ This was a big year for Anamnesis, not so big for the twins...
 ## 2024
 ![[2024bday.png|The Aozora twins sitting and laughing together at a cafe.]]
 
-All those years, and you're still here. You're still you. Thank you for being with me. Happy birthday.
+> [!quote] All those years, and you're still here. You're still you. Thank you for being with me. Happy birthday.
 
 Life seems to only get more and more stressful for me, so this was a thank you to both of them for bearing the brunt of my vent art.
 

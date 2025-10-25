@@ -1,6 +1,6 @@
 ---
 created: 2025-07-11
-modified: 2025-10-23T22:20
+modified: 2025-10-24T21:17
 ---
 > [!quote] Deep breaths.
 
@@ -84,7 +84,6 @@ Ari can fight, but she doesn’t like to and will try her best, often at her own
 
 > [!warning]- Spoilers
 > Her power is actually time control, so she isn't healing in the purest sense, more so speeding up the recovery process.
-> 
 > She later learns how to use her power to “decay” organisms, i.e. cell death. She uses this against a myriad of things, but never really justifies it enough to cause lethal injuries.
 
 Because of her EMT training, she can adapt to critical situations. However, she tends to overanalyze afterwards in pursuit of improvement. She also understands Latin and has very good memory.

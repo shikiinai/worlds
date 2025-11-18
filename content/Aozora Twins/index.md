@@ -1,7 +1,7 @@
 ---
 title: Aozora Twins
 created: 2025-07-11
-modified: 2025-10-23T22:36
+modified: 2025-11-18T11:03
 alias:
   - twins
   - sky
@@ -17,7 +17,7 @@ My oldest OCs ever and closest to my heart. Kaia has gone through a million rede
 # Characters
 ## [[Aozora Kaia]]
 As a pure ball of sunshine, Kaia's job is to drag Kaito everywhere and see *all* the things!
-### History
+## History
 Kaia is one of my oldest OCs. Given a couple more years, she would probably be legal to drink most places... which means she has aged up with me and gone through a myriad of redesigns over the years. Her happy disposition generally hasn't changed, except for a phase when I was fleshing out her current background.
 
 She was originally a sona for me, but eventually both she and I grew separate from each other. I'm happy that she is thriving now, even if I give her pain sometimes.

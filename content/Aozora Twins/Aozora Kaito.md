@@ -1,7 +1,7 @@
 ---
 title: Aozora Kaito
 created: 2025-07-11
-modified: 2025-08-13T15:26
+modified: 2025-11-18T13:05
 socialImage: assets/ref.png
 ---
 > [!EXAMPLE] Character Permissions

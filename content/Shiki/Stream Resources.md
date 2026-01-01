@@ -1,6 +1,6 @@
 ---
 created: 2025-10-14T12:35
-modified: 2025-10-20T14:22
+modified: 2025-11-18T13:05
 ---
 Some people have asked me about various things on my stream, so I'm documenting them here to share.
 

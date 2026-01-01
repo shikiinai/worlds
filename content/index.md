@@ -1,6 +1,6 @@
 ---
 title: The Library
-modified: 2025-08-16T22:22
+modified: 2025-11-18T13:05
 created: 2025-07-11
 ---
 Hello and welcome! This is where I keep notes, lore, project records and other things about my OCs (Original Characters). I have... many...

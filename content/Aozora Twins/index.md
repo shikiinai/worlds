@@ -1,7 +1,7 @@
 ---
 title: Aozora Twins
 created: 2025-07-11
-modified: 2025-11-18T11:03
+modified: 2025-11-18T13:05
 alias:
   - twins
   - sky

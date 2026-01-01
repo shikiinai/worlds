@@ -1,6 +1,6 @@
 ---
 created: 2025-07-28
-modified: 2025-10-23T22:15
+modified: 2025-12-31T22:15
 ---
 
 This page is organized in chronological order. To allow for embedding on the home page, the most recent update is placed at the bottom.
@@ -23,8 +23,12 @@ This page is organized in chronological order. To allow for embedding on the hom
 2025.10.14
 - minor grammar and wording fixes
 - Added [[Stream Resources]]
----
-# Recent Update
+
 2025.10.23
 - Added [[Agnes]] and backlinks to it
 - Updated [[Aozora Twins/index|Aozora Twins]] with annual art / milestones
+---
+# Recent Update
+2025.12.31
+- Added [[Oliver]] and backlinks to it
+- Updated [[Anamnesis/index|Anamnesis]] to include places

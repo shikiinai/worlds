@@ -1,36 +1,36 @@
 ---
 created: 2025-07-11
-modified: 2025-10-24T21:17
+modified: 2025-12-31T20:09
 ---
 > [!quote] Deep breaths.
 
-![[ari.png|Ari's color reference. Text is included in the character profile]]
+![[Anamnesis/assets/ref/ari.png|Ari's color reference. Text is included in the character profile]]
 
 The liquid she conjures from her hands has healing properties, mainly by accelerating cell regeneration. The opposite is theoretically also possible, but Ari refuses to entertain any hypotheses.
 
 She always tries to do the right thing. One could say she lives and dies by the Hippocratic Oath.
 # Basic Information
-|                       Category | Response                                                                                                                           |
-| -----------------------------: | :--------------------------------------------------------------------------------------------------------------------------------- |
-|            Name / <br>Nickname | Agnes (only strangers call her this)<br>Ari (Fen, Oliver, Teach)  <br>Code name Hemera<br>Princess (Darian)  <br>Sweetpea (Valeri) |
-|          Gender / <br>Pronouns | she/her                                                                                                                            |
-|                        Species | Human                                                                                                                              |
-|         Birthdate / <br>Zodiac | January 23 (Aquarius)                                                                                                              |
-|                     Blood Type | A                                                                                                                                  |
-|                     Birthplace | Lower Ataraxia                                                                                                                     |
-|                         Height | 154.6 cm 5' 0.8"                                                                                                                   |
-|                         Weight | light when she's awake, a tub of water when she's unconscious                                                                      |
-|                            Age | 18 at the beginning of Anamnesis                                                                                                   |
-|                    Hair Colour | White                                                                                                                              |
-|                     Eye Colour | Blue, turns ice blue when using her power                                                                                          |
-|                   Other Colour | Secondary colors are baby blue and red (for medic)                                                                                 |
-|                       Eyesight | She squints for things far away                                                                                                    |
-|                 Hand Dexterity | Right-handed                                                                                                                       |
-|                     Voice Type | Soft spoken and gentle like a spring breeze. Her nagging sounds like squeaks                                                       |
-| Economic Status / <br>Behavior | Frugal                                                                                                                             |
-|              Pets / <br>Plants | All plants in the Egg are her pets. The ones in her room are family                                                                |
-|                          Other | [ToyHouse](https://toyhou.se/2278686.agnes)                                                                                        |
-|                          Music | [Genshin Impact - Lullaby of the New Moon (I): Somnias a Luna](https://youtu.be/gt-qLR8v96Q)                                       |
+|                       Category | Response                                                                                                                            |
+| -----------------------------: | :---------------------------------------------------------------------------------------------------------------------------------- |
+|            Name / <br>Nickname | Agnes (only strangers call her this)<br>Ari (Fen, Oliver, Teach)  <br>Code name Hemera<br>Princess (Darian)  <br>Sweet pea (Valeri) |
+|          Gender / <br>Pronouns | she/her                                                                                                                             |
+|                        Species | Human                                                                                                                               |
+|         Birthdate / <br>Zodiac | January 23 (Aquarius)                                                                                                               |
+|                     Blood Type | A                                                                                                                                   |
+|                     Birthplace | Lower Ataraxia                                                                                                                      |
+|                         Height | 154.6 cm 5' 0.8"                                                                                                                    |
+|                         Weight | light when she's awake, a tub of water when she's unconscious                                                                       |
+|                            Age | 18 at the beginning of Anamnesis                                                                                                    |
+|                    Hair Colour | White                                                                                                                               |
+|                     Eye Colour | Blue, turns ice blue when using her power                                                                                           |
+|                   Other Colour | Secondary colors are baby blue and red (for medic)                                                                                  |
+|                       Eyesight | She squints for things far away                                                                                                     |
+|                 Hand Dexterity | Right-handed                                                                                                                        |
+|                     Voice Type | Soft spoken and gentle like a spring breeze. Her nagging sounds like squeaks                                                        |
+| Economic Status / <br>Behavior | Frugal                                                                                                                              |
+|              Pets / <br>Plants | All plants in the Egg are her pets. The ones in her room are family                                                                 |
+|                          Other | [ToyHouse](https://toyhou.se/2278686.agnes)                                                                                         |
+|                          Music | [Genshin Impact - Lullaby of the New Moon (I): Somnias a Luna](https://youtu.be/gt-qLR8v96Q)                                        |
 
 | ✓ Likes  | ☓ Dislikes  |
 | :------- | :---------- |
@@ -96,7 +96,7 @@ She is very co-dependent on Oli, and sometimes seems lost without him. She is ok
 - She is really good at managing her emotions on the fly, but she takes forever to process it
 - She is touch sensitive. Oli pokes her gently with his pinky before nuzzling in. Fen doesn't do anything, but she can sense Fen's miasma a mile away and will lean on his shoulder from time to time.
 - Technically the water she conjures is drinkable...
-- Agnes means "pure"  and "holy". Her original name from way back when was Aries
+- Agnes means "pure" and "holy". Her original name from way back when was Aries
 # Social
 ## People They Admire
 Children for their simplistic view on life
@@ -123,7 +123,7 @@ Ari doesn't interact with Pinky much outside of the few times she was in Darian'
 ### Oliver
 Ari and Oli are so close, they may as well be attached at the hip. They tell each other *everything*; Oli losing his voice just made his words per minute shoot up and Ari can barely get a word in. Ari will lecture Oli because he doesn't know any better. As siblings do, they fight, but they stay together because he is all she has.
 # Cafe Nowhere Ari
-![[cafeNowhereAri.png|A profile of Ari smiling.]]
+![[Anamnesis/assets/cafeNowhere/ari.png|A profile of Ari smiling.]]
 
 Cafe Nowhere Ari likes latte; something about warm milk, and Fen's patterns get prettier every time. Her hair is still white and she wears glasses, although she's self conscious about the glasses and only wears them when studying.
 

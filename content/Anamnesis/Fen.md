@@ -1,10 +1,10 @@
 ---
 created: 2025-07-11
-modified: 2025-10-23T21:12
+modified: 2025-12-31T20:09
 ---
 > [!quote] Good night.
 
-![[fen.png|Fen's color reference. Text is included in the character profile.]]
+![[Anamnesis/assets/ref/fen.png|Fen's color reference. Text is included in the character profile.]]
 
 Sleepy boy and leader of the Keres. Harnesses miasma that seeps out of his body and burns others on contact. High density miasma can reach a solid consistency, but it also requires more energy. Fen talks very little, if only because he's so low energy all the time. He's willing to talk about poison and, in his words, "critical points" if you ask; no particular reason why he knows so much, it's his job.
 
@@ -117,7 +117,7 @@ Teach does mini therapy sessions with Fen every couple days where they walk arou
 Fen jokes that no fun is allowed around Ari, but the fact that he jokes at all is an indication of how close they are. Ari nags Fen to take better care of himself, and Fen retorts that Ari should learn to protect herself.
 
 They hang out together often, where Ari's nose is buried deep in a book while Fen catches a light snooze next to her. Sometimes Ari succumbs to the afternoon sleepiness and naps with him. 
-### Oli
+### [[Oliver|Oli]]
 Most of Fen's brainpower on off days is dedicated to figuring out a routine that will burn Oli's energy. Fen welcomes the challenge, both mentally and physically, as he tests out the routine together with Oli to make sure there aren't any training gaps. Since Fen has much lower energy levels, Oli also pushes him to become more efficient when they train together.
 
 Oli and Fen have a mutual pranking streak of 342. Mostly it begins with Oli and Fen retaliates with something equally silly, with short week-long pauses over the years by Ari's intervention ("Fen, be the bigger person!!" "Why???").
@@ -142,7 +142,7 @@ Fen doesn't understand Soren. He grates on Fen's nerves, but unlike Valeri, he a
 
 ---
 # Cafe Nowhere Fen
-![[cafeNowhereFen.png|Cafe Nowhere Fen smiling faintly at a cup of coffee.]]
+![[Anamnesis/assets/cafeNowhere/fen.png|Cafe Nowhere Fen smiling faintly at a cup of coffee.]]
 
 - Get you a man who looks at you the way Fen looks at coffee
 - How much coffee? Yes.

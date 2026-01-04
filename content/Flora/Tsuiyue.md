@@ -1,6 +1,6 @@
 ---
 created: 2025-07-11
-modified: 2025-11-18T13:05
+modified: 2026-01-03T14:45
 ---
 > [!quote] What are you buyin'? 
 
@@ -43,7 +43,7 @@ Creative Pursuits Collections Favourite / Least Favourite Colour Perfume / Colog
 
 # Relationships
 <!-- include behavior towards them -->
-## Hydrangea
+## [[Hydrangea]]
 Tsuiyue is smoking buddies with Hydrangea, and they also live in the same complex; they live next door actually. They enjoy chatting with Hydrangea on and off work. They send Hydrangea herbs or pictures of powder for it to guess the medicine, and Hydrangea replies with death flowers for them to identify and guess at the cause of death. There is morbid gallows humor all around.
 ## Huanglin
 Tsuiyue is coworkers with Huanglin. Huanglin works the night shift, as Tsuiyue's temper almost got the pharmacy in trouble on opening day. They're good friends, and Tsuiyue appreciates the reality check even though they think Huanglin can benefit from being less uptight about rules and decorum.

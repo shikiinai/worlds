@@ -1,7 +1,8 @@
 ---
-created: 2025-07-11
-modified: 2025-11-18T13:05
+created: 2025-12-31T21:02
+modified: 2026-01-03T16:00
 ---
+
 > [!quote] quote
 
 Image

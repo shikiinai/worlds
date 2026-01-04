@@ -1,6 +1,6 @@
 ---
 created: 2025-07-11
-modified: 2025-11-18T13:05
+modified: 2026-01-03T14:45
 ---
 > [!quote] I have to be serious in forensics. It's a grave situation.
 
@@ -51,7 +51,7 @@ Creative Pursuits Collections Favourite / Least Favourite Colour Perfume / Colog
 ## [[Albi]]
 Hydrangea is friends and coworkers with Albi. Albi has the driest humor that only Hydrangea understands. Hydrangea has a drastically different arrangement style from Albi, so occasionally it gets requests through the morgue. Albi pays it extra for those requests since it's technically not employed by the morgue.
 
-## Tsuiyue
+## [[Tsuiyue]]
 Hydrangea is smoking buddies with Tsuiyue. They live in the same complex. Tsuiyue laughs at Hydrangea's puns, despite not really understanding them. Hydrangea sends pictures of bloomed flowers to Tsuiyue sometimes, to which Tsuiyue will try to identify them.
 
 ## Chingyi

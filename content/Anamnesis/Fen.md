@@ -1,6 +1,6 @@
 ---
 created: 2025-07-11
-modified: 2025-12-31T20:09
+modified: 2026-01-09T21:28
 ---
 > [!quote] Good night.
 
@@ -30,7 +30,7 @@ The man needs sleep. Let him sleep.
 |                                                                      Voice Type | Warm sleepy baritone                                                                                                                          |
 |                                                   Economic Status /<br>Behavior | Company card pays for everything. He knows the market price of different coffee beans but he would get scammed for anything else.             |
 |                                                               Pets / <br>Plants | Ideal pet would be an otter                                                                                                                   |
-|                                                                           Other | [ToyHouse](https://toyhou.se/2274669.fen)                                                                                                     |
+|                                                                           Other | [ToyHouse](https://toyhou.se/2274669.fen)<br>Voice claim: Soraru (utaite) or ivudot (utaite)                                                  |
 |                                                                           Music | [Mendelssohn - Songs without Words](https://www.youtube.com/watch?v=BnMlTRAWN0w)                                                              |
 
 | ✓ Likes                                  | ☓ Dislikes                      |

@@ -1,7 +1,7 @@
 ---
 title: Mafia Shiki
 created: 2025-07-11
-modified: 2025-11-18T13:05
+modified: 2026-03-17T15:24
 socialImage: assets/mafiaShiki2.png
 ---
 ![[mafiaShiki2.png|Mafia Shiki flat color reference.]]
@@ -148,3 +148,7 @@ Occasionally, shit hits the fan and Shiki has to order in person. They feel unco
 Later, Shiki commissions custom dampening earbuds from Timpani to protect themselves  from certain frequencies.
 ### Ren
 Shiki collected the intel about the Yozora family, and everything about Ren unsettled them. However, after actually meeting them and seeing those dead eyes, Shiki feels a weird connection to them. Perhaps they recognize a fellow walking dead.
+
+# Related Writing
+- [Ulthar](https://ellipsus.com/read/3iSp6HHP31AzdUMiHqhe5V/Ulthar), written by Ren
+- [Contract](https://ellipsus.com/read/6E7V93NW7EHZp5WfnHwBIV/Contract?theme=jazzyBlue), written by Shiki

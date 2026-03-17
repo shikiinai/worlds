@@ -1,6 +1,6 @@
 ---
 created: 2025-07-11
-modified: 2026-01-03T14:45
+modified: 2026-01-09T21:30
 ---
 > [!quote] What are you buyin'? 
 
@@ -20,7 +20,7 @@ modified: 2026-01-03T14:45
 |       Other Colour | scar is white latex (tree blood color)                                                |
 |           Eyesight | far sighted                                                                           |
 |     Hand Dexterity | right handed                                                                          |
-|              Other | [ToyHouse](https://toyhou.se/22984351.tsuiyue)                                        |
+|              Other | [ToyHouse](https://toyhou.se/22984351.tsuiyue)<br>Voice claim: Junichi Suwabe         |
 |              Music | [くじら (Kujira) - ねむるまち (Sleeping street)](https://www.youtube.com/watch?v=ePBjUMEeqBw) |
 
 | ✓ Likes | ☓ Dislikes      |

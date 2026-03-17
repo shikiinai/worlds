@@ -1,6 +1,6 @@
 ---
 created: 2025-07-11
-modified: 2025-12-31T20:09
+modified: 2026-01-09T21:29
 ---
 > [!quote] Deep breaths.
 
@@ -18,7 +18,7 @@ She always tries to do the right thing. One could say she lives and dies by the 
 |         Birthdate / <br>Zodiac | January 23 (Aquarius)                                                                                                               |
 |                     Blood Type | A                                                                                                                                   |
 |                     Birthplace | Lower Ataraxia                                                                                                                      |
-|                         Height | 154.6 cm 5' 0.8"                                                                                                                    |
+|                         Height | 154.6 cm (5'0.8")                                                                                                                   |
 |                         Weight | light when she's awake, a tub of water when she's unconscious                                                                       |
 |                            Age | 18 at the beginning of Anamnesis                                                                                                    |
 |                    Hair Colour | White                                                                                                                               |
@@ -29,7 +29,7 @@ She always tries to do the right thing. One could say she lives and dies by the 
 |                     Voice Type | Soft spoken and gentle like a spring breeze. Her nagging sounds like squeaks                                                        |
 | Economic Status / <br>Behavior | Frugal                                                                                                                              |
 |              Pets / <br>Plants | All plants in the Egg are her pets. The ones in her room are family                                                                 |
-|                          Other | [ToyHouse](https://toyhou.se/2278686.agnes)                                                                                         |
+|                          Other | [ToyHouse](https://toyhou.se/2278686.agnes)<br>Voice claim: Hayami Saori                                                            |
 |                          Music | [Genshin Impact - Lullaby of the New Moon (I): Somnias a Luna](https://youtu.be/gt-qLR8v96Q)                                        |
 
 | ✓ Likes  | ☓ Dislikes  |

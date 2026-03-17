@@ -1,29 +1,32 @@
 ---
 created: 2025-07-11
-modified: 2025-11-18T13:05
+modified: 2026-01-09T21:18
 ---
+> [!quote] Quote here
+
+
 # Basic Information
-|                   Category | Response               |
-| -------------------------: | :--------------------- |
-|            Name / Nickname |                        |
-|          Gender / Pronouns |                        |
-|                    Species |                        |
-|         Birthdate / Zodiac |                        |
-|                 Blood Type |                        |
-|                 Birthplace |                        |
-|                     Height |                        |
-|                     Weight |                        |
-|                        Age |                        |
-|                Hair Colour |                        |
-|                 Eye Colour |                        |
-|               Other Colour |                        |
-|                   Eyesight | colour-blind? glasses? |
-|             Hand Dexterity |                        |
-|                 Voice Type |                        |
-| Economic Status / Behavior |                        |
-|              Pets / Plants |                        |
-|                      Other | ToyHouse               |
-|                      Music |                        |
+|                       Category | Response               |
+| -----------------------------: | :--------------------- |
+|            Name / <br>Nickname |                        |
+|          Gender / <br>Pronouns |                        |
+|                        Species |                        |
+|         Birthdate / <br>Zodiac |                        |
+|                     Blood Type |                        |
+|                     Birthplace |                        |
+|                         Height |                        |
+|                         Weight |                        |
+|                            Age |                        |
+|                    Hair Colour |                        |
+|                     Eye Colour |                        |
+|                   Other Colour |                        |
+|                       Eyesight | colour-blind? glasses? |
+|                 Hand Dexterity |                        |
+|                     Voice Type |                        |
+| Economic Status / <br>Behavior |                        |
+|              Pets / <br>Plants |                        |
+|                          Other | ToyHouse               |
+|                          Music |                        |
 
 | ✓ Likes | ☓ Dislikes |
 | :------ | :--------- |

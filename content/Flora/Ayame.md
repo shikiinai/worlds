@@ -1,6 +1,6 @@
 ---
 created: 2026-01-03T16:00
-modified: 2026-01-03T16:17
+modified: 2026-01-09T21:30
 ---
 > [!quote] Hi, I'm a sprout!
 
@@ -8,22 +8,22 @@ modified: 2026-01-03T16:17
 
 (The reference is outdated)
 # Basic Information
-|           Category | Response                                                                    |
-| -----------------: | :-------------------------------------------------------------------------- |
-|    Name / Nickname | Ayame Limniris                                                              |
-|  Gender / Pronouns | she/it                                                                      |
-|            Species | [Iris sanguinea](https://en.wikipedia.org/wiki/Iris_sanguinea) (blood iris) |
-| Birthdate / Zodiac | October 24 (Scorpio)                                                        |
-|             Height | smol                                                                        |
-|              Build | healthy                                                                     |
-|                Age | sprout                                                                      |
-|        Hair Colour | two-tone; violet with pink inner                                            |
-|         Eye Colour | same as hair; 6 petal pupil                                                 |
-|       Other Colour | yellow ribbons                                                              |
-|           Eyesight | good                                                                        |
-|     Hand Dexterity | right handed                                                                |
-|              Other | [ToyHouse](https://toyhou.se/22982816.ayame-limniris)                       |
-|              Music | [K.K. Slider - Bubblegum K.K.](https://www.youtube.com/watch?v=mIS6qIVOWxI) |
+|           Category | Response                                                                          |
+| -----------------: | :-------------------------------------------------------------------------------- |
+|    Name / Nickname | Ayame Limniris                                                                    |
+|  Gender / Pronouns | she/it                                                                            |
+|            Species | [Iris sanguinea](https://en.wikipedia.org/wiki/Iris_sanguinea) (blood iris)       |
+| Birthdate / Zodiac | October 24 (Scorpio)                                                              |
+|             Height | smol                                                                              |
+|              Build | healthy                                                                           |
+|                Age | sprout                                                                            |
+|        Hair Colour | two-tone; violet with pink inner                                                  |
+|         Eye Colour | same as hair; 6 petal pupil                                                       |
+|       Other Colour | yellow ribbons                                                                    |
+|           Eyesight | good                                                                              |
+|     Hand Dexterity | right handed                                                                      |
+|              Other | [ToyHouse](https://toyhou.se/22982816.ayame-limniris)<br>Voice claim: Misaki Kuno |
+|              Music | [K.K. Slider - Bubblegum K.K.](https://www.youtube.com/watch?v=mIS6qIVOWxI)       |
 
 | ✓ Likes      | ☓ Dislikes    |
 | :----------- | :------------ |

@@ -1,7 +1,7 @@
 ---
 title: Anamnesis
 created: 2025-07-11
-modified: 2025-12-31T21:24
+modified: 2026-03-17T15:29
 alias:
   - nemo
   - anemone
@@ -22,7 +22,7 @@ Main OC project centering on Fen and the people around him in the city Ataraxia.
 
 # Links
 - [ToyHouse](https://toyhou.se/shikiinai/characters/folder:458070)
-- [Writing](https://archiveofourown.org/works/59889481/chapters/152784202) ([Series](https://archiveofourown.org/series/4433482))
+- Writing: [AO3](https://archiveofourown.org/works/59889481/chapters/152784202), [AO3 Series](https://archiveofourown.org/series/4433482), [Ellipsus](https://ellipsus.com/read/MIZ2nzxJggq2XFG5jffHw/Anamnesis)
 - Coffee shop AU: [[Cafe Nowhere]]
 
 # Characters

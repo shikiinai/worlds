@@ -1,6 +1,6 @@
 ---
 created: 2025-12-31T14:00
-modified: 2025-12-31T20:14
+modified: 2026-01-09T21:29
 ---
 > [!quote] ♪
 
@@ -21,7 +21,7 @@ Oliver stores separate dimensions in keychains like lock boxes. The keychains th
 |     Birthdate / <br>Zodiac | June 7 (Gemini)                                                                                           |
 |                 Blood Type | B                                                                                                         |
 |                 Birthplace | Lower Ataraxia                                                                                            |
-|                     Height | 163 cm 5' 4"                                                                                              |
+|                     Height | 163 cm (5'4")                                                                                             |
 |                     Weight | A rock.                                                                                                   |
 |                        Age | 17 at the beginning of Anamnesis                                                                          |
 |                Hair Colour | Chestnut Brown                                                                                            |
@@ -32,7 +32,7 @@ Oliver stores separate dimensions in keychains like lock boxes. The keychains th
 |                 Voice Type | Raspy and rough<br>The synthesizer sounds like a preteen squeaky boy                                      |
 | Economic Status / Behavior | He asks Ari for allowance to get things for her, because Ari won't buy things for herself >:(             |
 |              Pets / Plants | He takes care of Ari's plants when they get too rowdy                                                     |
-|                      Other | [ToyHouse](https://toyhou.se/11501043.oliver)                                                             |
+|                      Other | [ToyHouse](https://toyhou.se/11501043.oliver)<br>Voice claim: Mafumafu in peak gremlin mode               |
 |                      Music | [Project Sekai Colorful Stage - Vivid Bad Squad: Fire Dance](https://www.youtube.com/watch?v=Zqs0lEADyFo) |
 
 | ✓ Likes | ☓ Dislikes |
@@ -126,6 +126,7 @@ Oliver doesn't like Darian. Sure, he's his boss, but that doesn't mean Oliver wi
 ### Soren
 Oliver hates Soren. He won't say he's scared, but he's scared. When Fen spars with him, the punches hurt. When Soren spars with him, Oliver feels the bloodthirst in the air. One mistake and he *will* die. Also, Soren made Ari cry. Nobody, *nobody*, makes his sister cry.
 # Cafe Nowhere Oli
+![[Anamnesis/assets/cafeNowhere/oli.png|Cafe Nowhere Oli stretching across an entire couch.]]
 Cafe Nowhere Oli lives off of energy drinks, but he's always down for a warm cup of honey milk. It's good for the soul and it knocks him out!
 
 Oliver is a high school senior aiming for an athlete scholarship. He likes the cafe’s pastries. He can still speak, but he'll lose his voice before graduation...

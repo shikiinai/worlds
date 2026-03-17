@@ -1,27 +1,27 @@
 ---
 created: 2025-07-11
-modified: 2026-01-03T14:45
+modified: 2026-01-09T21:30
 ---
 > [!quote] I have to be serious in forensics. It's a grave situation.
 
 ![[hydrangea.png|Hydrangea color reference. They smoke, and they have a spider lily tattoo on their back.]]
 # Basic Information
-|           Category | Response                                                                   |
-| -----------------: | :------------------------------------------------------------------------- |
-|    Name / Nickname | Hydrangea                                                                  |
-|  Gender / Pronouns | Trans plant :^) \| it/its/they/them                                        |
-|            Species | [Hydrangea](https://en.wikipedia.org/wiki/Hydrangea)                       |
-| Birthdate / Zodiac | September 4 (Virgo)                                                        |
-|             Height | middle                                                                     |
-|              Build | stocky                                                                     |
-|                Age | adult                                                                      |
-|        Hair Colour | bright pink                                                                |
-|         Eye Colour | magenta with pastel blue pupils                                            |
-|       Other Colour | hair accessory is lavender                                                 |
-|           Eyesight | perfect                                                                    |
-|     Hand Dexterity | left handed                                                                |
-|              Other | [ToyHouse](https://toyhou.se/22982679.hydrangea)                           |
-|              Music | [DECO\*27 - Otome Dissection](https://www.youtube.com/watch?v=7zwCIz-Ohn4) |
+|           Category | Response                                                                         |
+| -----------------: | :------------------------------------------------------------------------------- |
+|    Name / Nickname | Hydrangea                                                                        |
+|  Gender / Pronouns | Trans plant :^) \| it/its/they/them                                              |
+|            Species | [Hydrangea](https://en.wikipedia.org/wiki/Hydrangea)                             |
+| Birthdate / Zodiac | September 4 (Virgo)                                                              |
+|             Height | middle                                                                           |
+|              Build | stocky                                                                           |
+|                Age | adult                                                                            |
+|        Hair Colour | bright pink                                                                      |
+|         Eye Colour | magenta with pastel blue pupils                                                  |
+|       Other Colour | hair accessory is lavender                                                       |
+|           Eyesight | perfect                                                                          |
+|     Hand Dexterity | left handed                                                                      |
+|              Other | [ToyHouse](https://toyhou.se/22982679.hydrangea)<br>Voice claim: Hiyama Nobuyuki |
+|              Music | [DECO\*27 - Otome Dissection](https://www.youtube.com/watch?v=7zwCIz-Ohn4)       |
 
 | ✓ Likes     | ☓ Dislikes       |
 | :---------- | :--------------- |

@@ -1,6 +1,6 @@
 ---
 created: 2025-07-11
-modified: 2025-11-18T13:05
+modified: 2026-03-17T15:24
 title: Mafia AU
 ---
 > [!info] Status: Ongoing
@@ -41,3 +41,7 @@ At some point, [[Friends#Timpani|Timpani]] also joined in on the fun as the [neu
 ![[mafiaTimpani.png|Mafia Timpani in various poses, such as collecting payment, or sitting at a handmade stand with the title "Change my mind" and a sticker that says "You won't."]]
 
 And here we are now. Welcome to Queensport, where mafia meets the eldritch. Whose side will you take, Ren or Bimu's?
+
+# Writing
+- [Ulthar](https://ellipsus.com/read/3iSp6HHP31AzdUMiHqhe5V/Ulthar), written by Ren
+- [Contract](https://ellipsus.com/read/6E7V93NW7EHZp5WfnHwBIV/Contract?theme=jazzyBlue), written by Shiki

@@ -1,10 +1,10 @@
 ---
 created: 2026-01-02
-modified: 2026-01-03T15:58
+modified: 2026-10-18T21:50
 ---
 > [!quote] Look! you can see me!
 
-![[hisui.jpg|Hisui color reference.]]
+![[Flora/assets/hisui.jpg|Hisui color reference.]]
 # Basic Information
 |           Category | Response                                                                                           |
 | -----------------: | :------------------------------------------------------------------------------------------------- |

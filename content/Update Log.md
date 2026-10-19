@@ -1,6 +1,6 @@
 ---
 created: 2025-07-28
-modified: 2026-03-17T15:30
+modified: 2026-10-18T21:53
 ---
 
 This page is organized in chronological order. To allow for embedding on the home page, the most recent update is placed at the bottom.
@@ -35,7 +35,10 @@ This page is organized in chronological order. To allow for embedding on the hom
 2026.01.03
 - Added [[Hisui]], [[Ayame]]
 - Updated [[Flora/index|Flora]]
----
-# Recent Update
+
 2026.03.17
 - Added Ellipsus writing links to [[Mafia/index|Mafia AU]] and [[Anamnesis/index|Anamnesis]]
+---
+# Recent Update
+2026.10.18
+- Fixed broken image links

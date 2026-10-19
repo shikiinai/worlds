@@ -1,10 +1,10 @@
 ---
 created: 2025-12-31T14:00
-modified: 2026-01-09T21:29
+modified: 2026-10-18T21:47
 ---
 > [!quote] ♪
 
-![[oli.png|Oliver's color reference. Text is included in the character profile]]
+![[Anamnesis/assets/ref/oli.png|Oliver's color reference. Text is included in the character profile]]
 
 Oliver stores separate dimensions in keychains like lock boxes. The keychains themselves are acrylic, and he infuses energy into the keychains to create the dimensions. Due to his condition when he obtained this power, Oliver can only create one dimension every day.
 
@@ -15,7 +15,7 @@ Oliver stores separate dimensions in keychains like lock boxes. The keychains th
 # Basic Information
 |                   Category | Response                                                                                                  |
 | -------------------------: | :-------------------------------------------------------------------------------------------------------- |
-|        Name / <br>Nickname | Oliver<br>Oli (most people)<br>Code name  Aether<br>Bus boy (Darian)<br>Bud (Valeri)                      |
+|        Name / <br>Nickname | Oliver<br>Oli (most people)<br>Code name Aether<br>Bus boy (Darian)<br>Bud (Valeri)                       |
 |      Gender / <br>Pronouns | he/him                                                                                                    |
 |                    Species | Human                                                                                                     |
 |     Birthdate / <br>Zodiac | June 7 (Gemini)                                                                                           |

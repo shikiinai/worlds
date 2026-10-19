@@ -1,13 +1,13 @@
 ---
 title: Anamnesis
 created: 2025-07-11
-modified: 2026-03-17T15:29
+modified: 2026-10-18T21:48
 alias:
   - nemo
   - anemone
   - sea
 ---
-****![[cover.png|300]]
+![[Anamnesis/assets/cover.png|300]]
 
 > [!INFO] Status: Ongoing
 > Currently updates every 2 months or so.

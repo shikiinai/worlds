@@ -1,7 +1,7 @@
 ---
 title: Aozora Kaito
 created: 2025-07-11
-modified: 2025-11-18T13:05
+modified: 2026-10-18T21:49
 socialImage: assets/ref.png
 ---
 > [!EXAMPLE] Character Permissions
@@ -12,7 +12,7 @@ socialImage: assets/ref.png
 > - **⚠ Fanfiction**: keep it SFW. Mild whump OK
 > - **☓ Kinning**
 
-![[ref.png|Kaia and Kaito sitting together. Color reference.]]
+![[Aozora Twins/assets/ref.png|Kaia and Kaito sitting together. Color reference.]]
 
 Kaito is the one on the right.
 # Basic Information

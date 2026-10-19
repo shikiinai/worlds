@@ -1,9 +1,9 @@
 ---
 created: 2025-07-11
-modified: 2025-11-18T13:05
+modified: 2026-10-18T21:47
 title: Cafe Nowhere
 ---
-![[coverCafe.png|300]]
+![[Anamnesis/assets/coverCafe.png|300]]
 
 > [!INFO] Status: Ongoing
 > Updates irregularly

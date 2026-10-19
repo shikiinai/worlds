@@ -1,8 +1,9 @@
 ---
 created: 2026-01-09T21:17
-modified: 2026-01-09T21:52
+modified: 2026-10-18T21:48
+draft: true
 ---
-![[vino.png|Vino's color reference.]]
+![[Anamnesis/assets/ref/vino.png|Vino's color reference.]]
 # Basic Information
 |                       Category | Response                                                                                            |
 | -----------------------------: | :-------------------------------------------------------------------------------------------------- |

@@ -1,14 +1,14 @@
 ---
 title: References
 created: 2025-07-12
-modified: 2025-11-18T13:05
+modified: 2026-10-18T21:52
 ---
 
 References are sorted in reverse chronological order (so newest first), along with some design notes.
 
 # shiki_turret
 ## 3.0
-![[030.jpg|Shiki_Turret 3.0 reference sheet]]
+![[Shiki/assets/030.jpg|Shiki_Turret 3.0 reference sheet]]
 ```
 [2024.10.20] less supplies means metal arms, open water cooling and a jacket to protect from the elements
 ```
@@ -22,7 +22,7 @@ Shiki gave up on fixing their arms and putting on flesh paint, so their arms fro
 Headset, eyes, glitches, coolant cables, the ribs and diamond on the crop top, and the power lines on the arms all change color according to energy levels. The order starting from full power is purple → blue → (yellow → ) red → black (OFF).
 
 ## 2.0
-![[020.jpg|Shiki_Turret 2.0 reference sheet, separated into summer and winter outfits.]]
+![[Shiki/assets/020.jpg|Shiki_Turret 2.0 reference sheet, separated into summer and winter outfits.]]
 ```
 [2022.05.16] an offline accident resulted in more exposed circuitry and a replaced hand
 summer outfit inspired by the outfit joei put together.
@@ -36,7 +36,7 @@ Around this time, I think I figured out how to put custom units on my page in Gr
 The earphones were a spur of the moment decision when I was requesting a commission for Pokemon art with [[Friends#Ren|Ren]]. The massive upside down logo on the headset felt obnoxious, so I moved it to my shirt.
 
 ## 1.5
-![[015.jpg|Shiki_Turret 1.5 reference sheet. Minor updates to the outfit.]]
+![[Shiki/assets/015.jpg|Shiki_Turret 1.5 reference sheet. Minor updates to the outfit.]]
 ```
 [2021.05.27] an idol trainee, a mochi singer, and a robot became fast friends, calling themselves l'amour
 ```
@@ -46,7 +46,7 @@ It got really hot, and I also discovered my love for crop tops. I had this exact
 The beginning of the dark hair tips! The front / back double tone hair quickly fell out of favor for me, but I still wanted two colors. Also made Shiki a *teensy* bit darker.
 
 ## 1.0
-![[010.jpg|Shiki_Turret 1.0 reference sheet.]]
+![[Shiki/assets/010.jpg|Shiki_Turret 1.0 reference sheet.]]
 ```
 [2021.01.04] prototype of service robot inspired by portal turret  
 [2021.02.18] official release of the directionally challenged robot with no memory along with origin blurb
@@ -58,9 +58,9 @@ The headset is reminiscent of Portal turrets.
 
 # Orca Shiki
 ## Main design (on land)
-![[orcashiki_ref.png|Orca Shiki outfit notes.]]
+![[Shiki/assets/orcashiki_ref.png|Orca Shiki outfit notes.]]
 
 ## Wetsuit
-![[orcashiki_wetsuit.png|Orca Shiki wetsuit notes]]
+![[Shiki/assets/orcashiki_wetsuit.png|Orca Shiki wetsuit notes]]
 
 Orca Shiki wears this when they go in the water.

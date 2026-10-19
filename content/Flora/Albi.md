@@ -1,10 +1,10 @@
 ---
 created: 2025-07-11
-modified: 2025-11-18T13:05
+modified: 2026-10-18T21:50
 ---
 > [!quote] May you walk in the Flower Deity's footsteps.
 
-![[albi.png|Albi outdated color reference.]]
+![[Flora/assets/albi.png|Albi outdated color reference.]]
 
 (The reference is outdated)
 # Basic Information

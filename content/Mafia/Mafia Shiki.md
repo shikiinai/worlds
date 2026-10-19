@@ -1,10 +1,10 @@
 ---
 title: Mafia Shiki
 created: 2025-07-11
-modified: 2026-03-17T15:24
+modified: 2026-10-18T21:51
 socialImage: assets/mafiaShiki2.png
 ---
-![[mafiaShiki2.png|Mafia Shiki flat color reference.]]
+![[Mafia/assets/mafiaShiki2.png|Mafia Shiki flat color reference.]]
 # Basic Information
 > [!warning] Only Bimu and the Hime family doctors know of Shiki's half slug ancestry.
 > Moe *might* know but he certainly doesn't show it. Others may feel that something is slightly off about Shiki.

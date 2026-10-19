@@ -1,17 +1,17 @@
 ---
 created: 2025-07-25
-modified: 2025-11-18T13:05
+modified: 2026-10-18T21:58
 title: Friends
 enableToc: false
 ---
-You'll see mentions to these people on this wiki. They may be key storytellers, collaborators, or just friends who are here for the ride.
+You'll see mentions to these people on this wiki. They may be key storytellers, collaborators, or just friends who are here for the ride. Some of them may not be in my orbit anymore, but this page ensures the memories we shared are cherished forever.
 
 This page is a glossary so it's arranged in alphabetical order. You probably shouldn't read it linearly, but don't let me stop you if you really want to.
 
-| <h2>Bimu</h2>                                      |                                                                                                                                  |
-| -------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="assets/bimu.png" width="200" alt="Bimu"> | she/her<br>[[Mafia/index\|loves suits.]]<br>~~my oshi~~ I mean what? Contagious laugh #1<br>very passionate and happy to be here |
-|                                                    | [Carrd](https://bimuu.uwu.ai/) \| [Twitch](https://www.twitch.tv/bimuu_)                                                         |
+| <h2>Bimu</h2>                                      |                                                                                                                        |
+| -------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------- |
+| <img src="assets/bimu.png" width="200" alt="Bimu"> | she/her<br>[[Mafia/index\|loves suits.]]<br>my girlfriend. contagious laugh #1<br>very passionate and happy to be here |
+|                                                    | [Twitter](https://twitter.com/_bimuu_) \| [Twitch](https://www.twitch.tv/bimuu_)                                       |
 
 | <h2>Bomi</h2>                                      |                                                                                      |
 | -------------------------------------------------- | :----------------------------------------------------------------------------------- |

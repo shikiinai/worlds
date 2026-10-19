@@ -1,6 +1,6 @@
 ---
 created: 2025-07-11
-modified: 2026-01-09T21:28
+modified: 2026-10-18T21:48
 ---
 > [!quote] Good night.
 
@@ -85,7 +85,7 @@ Fen's hobbies include napping and training. He's always thinking up new menus fo
 
 He prefers casual but form fitting clothes. He has a sleeveless zip-up that he wears on off days.
 
-![[napClub.png|Fen and Ari in casual clothes, leaning against each other napping. The text reads Nap Club.]]
+![[Anamnesis/assets/ref/napClub.png|Fen and Ari in casual clothes, leaning against each other napping. The text reads Nap Club.]]
 ## Special Skills
 <!-- Fighting Styles / Sports / Dance / Martial Arts / Guns / Driving / Languages -->
 Fen fights with miasma. The amount of miasma he can produce is restricted by the blood in his body. However, he can also manipulate the miasma in blood he spilled previously. With concentration he can raise the density to a solid consistency, thus forming shields and blunt weapons. He has two signature moves -- for assassinations, he will cover the opponent's mouth with his hand and let the miasma burn their insides; against a group, he will send a wave of miasma, engulfing opponents and flattening them into nothingness.

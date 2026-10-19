@@ -1,10 +1,10 @@
 ---
 created: 2026-01-03T16:00
-modified: 2026-01-09T21:30
+modified: 2026-10-18T21:50
 ---
 > [!quote] Hi, I'm a sprout!
 
-![[ayame.png|Ayame's color reference.]]
+![[Flora/assets/ayame.png|Ayame's color reference.]]
 
 (The reference is outdated)
 # Basic Information

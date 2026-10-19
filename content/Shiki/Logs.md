@@ -1,11 +1,11 @@
 ---
 title: Logs
 created: 2025-07-12
-modified: 2025-11-18T13:05
+modified: 2026-10-18T21:52
 ---
 
 # 00_aDeal.log
-![[00.jpg|Shiki_turret looks up blankly at the floating, snickering demon Sore from their seat in the middle of a trash pile.]]
+![[Shiki/assets/00.jpg|Shiki_turret looks up blankly at the floating, snickering demon Sore from their seat in the middle of a trash pile.]]
 
 Sitting on top of the trash pile, the robot wondered when the factory manager would return. The manager had told them to stay put, and mumbled something about a "darned glitch" as he left. It had been days, weeks, since then.
 
@@ -43,7 +43,7 @@ Sitting on top of the trash pile, the robot wondered when the factory manager wo
 ```
 
 # 01_love.log
-![[01.jpg|Mai, Shiki and Ren fall to land on a chimney in the snowing night. The text reads, "Happy Holidays from L'amour."]]
+![[Shiki/assets/01.jpg|Mai, Shiki and Ren fall to land on a chimney in the snowing night. The text reads, "Happy Holidays from L'amour."]]
 
 "Wow, there are so many gifts in this bag!"
 
@@ -90,7 +90,7 @@ Sitting on top of the trash pile, the robot wondered when the factory manager wo
 
 ---
 
-![[02.jpg|Shiki laughs sheepishly. Their shirt is soaked and their right hand is missing.]]
+![[Shiki/assets/02.jpg|Shiki laughs sheepishly. Their shirt is soaked and their right hand is missing.]]
 
 "I'm so sorry Shiki, I should have made sure we were inside longer..."
 

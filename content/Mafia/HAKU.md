@@ -1,10 +1,10 @@
 ---
 title: HAKU
 created: 2025-07-11
-modified: 2025-11-18T13:05
+modified: 2026-10-18T21:51
 socialImage: assets/HAKU.png
 ---
-![[HAKU.png|Haku in one of their male and female forms smirking at the viewer. To the right, HAKU in the dark with glowing amber eyes, taking a bite out of a red object.]]
+![[Mafia/assets/HAKU.png|Haku in one of their male and female forms smirking at the viewer. To the right, HAKU in the dark with glowing amber eyes, taking a bite out of a red object.]]
 
 > [!bug] CW: vore. This person is also slightly NSFW / 18+.
 

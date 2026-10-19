@@ -1,11 +1,11 @@
 ---
 created: 2025-07-11
-modified: 2025-11-18T13:05
+modified: 2026-10-18T21:52
 title: Orca Shiki
 socialImage: assets/treadingWater.png
 ---
 
-![[treadingWater.png|Orca Shiki sitting in a puddle of ink, reaching out to a floating puddle of water.]]
+![[Shiki/assets/treadingWater.png|Orca Shiki sitting in a puddle of ink, reaching out to a floating puddle of water.]]
 
 An alternate form of my online persona, if you will. Mainly used for
 - vlogging / IRL pictures

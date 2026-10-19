@@ -1,10 +1,10 @@
 ---
 created: 2025-07-11
-modified: 2026-01-09T21:30
+modified: 2026-10-18T21:50
 ---
 > [!quote] What are you buyin'? 
 
-![[tsuiyue.png|Tsuiyue color reference. They hold a traditional smoking pipe.]]
+![[Flora/assets/tsuiyue.png|Tsuiyue color reference. They hold a traditional smoking pipe.]]
 # Basic Information
 |           Category | Response                                                                              |
 | -----------------: | :------------------------------------------------------------------------------------ |

@@ -1,10 +1,10 @@
 ---
 created: 2025-07-11
-modified: 2026-01-09T21:30
+modified: 2026-10-18T21:50
 ---
 > [!quote] I have to be serious in forensics. It's a grave situation.
 
-![[hydrangea.png|Hydrangea color reference. They smoke, and they have a spider lily tattoo on their back.]]
+![[Flora/assets/hydrangea.png|Hydrangea color reference. They smoke, and they have a spider lily tattoo on their back.]]
 # Basic Information
 |           Category | Response                                                                         |
 | -----------------: | :------------------------------------------------------------------------------- |
